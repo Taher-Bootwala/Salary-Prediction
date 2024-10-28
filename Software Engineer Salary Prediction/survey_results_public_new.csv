@@ -1,0 +1,2001 @@
+Degree,Experience_Years,Languages,Salary
+Bachelor's degree,21,"C++, Ruby",1562928
+PhD,1,"Java, C++",1861572
+PhD,28,"C++, PHP",2525904
+Bachelor's degree,30,"JavaScript, Python",1766100
+Less than a Bachelors,22,"Python, C++",1181244
+Bachelor's degree,32,"Java, PHP",1831548
+Master's degree,41,Java,2515332
+PhD,12,"Python, PHP",2130864
+Master's degree,20,"JavaScript, Java",2001828
+Less than a Bachelors,42,"Python, PHP",1626036
+Master's degree,13,"JavaScript, Python",1782492
+Bachelor's degree,0,"JavaScript, C++",961932
+Master's degree,44,"Java, Swift",2572512
+PhD,45,"Java, Swift",2925012
+Less than a Bachelors,9,JavaScript,868944
+Bachelor's degree,8,"JavaScript, PHP",1199904
+Bachelor's degree,36,"JavaScript, Ruby",1923732
+PhD,4,"Java, PHP",1941564
+Bachelor's degree,17,"Ruby, Swift",1379232
+Bachelor's degree,47,"PHP, Ruby",2144616
+PhD,0,PHP,1855764
+Bachelor's degree,37,"Java, PHP",1852308
+Bachelor's degree,7,Swift,1141560
+Bachelor's degree,33,"JavaScript, Ruby",1840200
+PhD,18,"JavaScript, Ruby",2288592
+Master's degree,36,"C++, PHP",2408652
+Master's degree,50,"C++, Swift",2741820
+PhD,31,"Python, Ruby",2555628
+Bachelor's degree,42,JavaScript,2084568
+Master's degree,42,PHP,2550672
+PhD,36,"JavaScript, Swift",2761944
+Master's degree,34,"JavaScript, Python",2321676
+Master's degree,35,"Java, Swift",2393196
+PhD,40,"Python, C++",2829252
+Less than a Bachelors,20,"Python, Swift",1192044
+Master's degree,41,"JavaScript, PHP",2444580
+Master's degree,6,"PHP, Ruby",1691640
+Master's degree,36,"Java, PHP",2336676
+PhD,40,"PHP, Swift",2833080
+PhD,16,"C++, PHP",2282100
+Less than a Bachelors,32,Python,1376412
+Master's degree,48,"JavaScript, PHP",2643000
+PhD,37,"PHP, Ruby",2762808
+Master's degree,3,"C++, Swift",1582992
+Bachelor's degree,34,C++,1870008
+Less than a Bachelors,12,"JavaScript, Python",961440
+Less than a Bachelors,30,JavaScript,1401276
+Less than a Bachelors,7,Python,867864
+Bachelor's degree,31,"JavaScript, Ruby",1786248
+Less than a Bachelors,33,Python,1414224
+PhD,42,"C++, Swift",2909244
+PhD,36,"Ruby, Swift",2685012
+PhD,29,"Java, Swift",2589792
+Master's degree,20,Ruby,2035524
+Master's degree,6,PHP,1674972
+Bachelor's degree,12,"Python, Swift",1258392
+PhD,1,"Python, PHP",1932156
+Less than a Bachelors,23,Python,1166076
+PhD,1,"Java, Swift",1906728
+Master's degree,45,"Python, Java",2531964
+Master's degree,25,C++,2114592
+Less than a Bachelors,11,"Python, Ruby",935304
+Bachelor's degree,22,"C++, Ruby",1551192
+Master's degree,28,Ruby,2137200
+Master's degree,33,"C++, PHP",2248596
+Bachelor's degree,5,"JavaScript, Java",1110672
+Master's degree,19,"Java, PHP",1896468
+Less than a Bachelors,37,"C++, Swift",1529280
+PhD,42,"JavaScript, Java",2893896
+Master's degree,32,"C++, Swift",2305308
+PhD,49,C++,2993340
+Less than a Bachelors,16,"Ruby, Swift",1056912
+Less than a Bachelors,36,"Java, Ruby",1480368
+PhD,19,JavaScript,2348376
+Bachelor's degree,15,"Java, Swift",1366044
+Master's degree,12,"Python, PHP",1826964
+Master's degree,1,"C++, PHP",1478976
+PhD,19,Java,2329944
+Less than a Bachelors,31,Swift,1361916
+Bachelor's degree,48,Python,2127816
+Master's degree,38,"Ruby, Swift",2427420
+PhD,49,Java,3083220
+PhD,22,"Java, Ruby",2413068
+Less than a Bachelors,13,JavaScript,1009884
+Less than a Bachelors,44,"Python, PHP",1668624
+Bachelor's degree,37,JavaScript,1850700
+Less than a Bachelors,32,"C++, Swift",1388496
+PhD,12,"Python, Swift",2094588
+PhD,28,"JavaScript, C++",2588004
+PhD,14,"Python, Java",2205528
+Less than a Bachelors,34,Ruby,1532064
+Less than a Bachelors,37,"C++, PHP",1564176
+Master's degree,48,"PHP, Ruby",2650152
+Bachelor's degree,18,"Python, Java",1421460
+Bachelor's degree,24,"PHP, Ruby",1607880
+Bachelor's degree,4,"PHP, Swift",1104048
+Bachelor's degree,14,"Python, PHP",1365936
+PhD,49,"Python, Ruby",3047052
+Master's degree,23,"C++, PHP",2070552
+PhD,30,Python,2569152
+PhD,33,"JavaScript, Java",2677308
+Master's degree,2,PHP,1504152
+Bachelor's degree,44,"Python, Ruby",2075952
+Master's degree,28,"JavaScript, Java",2182548
+PhD,45,"PHP, Swift",2920068
+PhD,46,"PHP, Swift",3015744
+PhD,17,"C++, Swift",2261496
+PhD,11,"Python, Swift",2169528
+Less than a Bachelors,26,"JavaScript, PHP",1240632
+Less than a Bachelors,15,"JavaScript, Java",1020000
+PhD,30,"JavaScript, Java",2605476
+Less than a Bachelors,12,Python,971880
+Master's degree,3,"JavaScript, Python",1613100
+PhD,27,"Java, Swift",2521944
+Less than a Bachelors,1,"PHP, Swift",636276
+Bachelor's degree,34,"Python, Ruby",1868856
+Master's degree,26,"Ruby, Swift",2160588
+PhD,7,"Python, Java",2018904
+Bachelor's degree,47,"Java, PHP",2166192
+Less than a Bachelors,23,"JavaScript, C++",1233708
+Bachelor's degree,33,"C++, PHP",1779660
+PhD,43,"Python, Swift",2940624
+Less than a Bachelors,9,"Java, C++",920184
+Bachelor's degree,40,"PHP, Swift",1986888
+PhD,47,"Java, Ruby",2979612
+Bachelor's degree,24,"Java, C++",1609428
+Bachelor's degree,33,PHP,1784004
+Less than a Bachelors,28,"Python, Java",1376520
+Master's degree,48,"C++, PHP",2683956
+PhD,31,"Java, Swift",2589024
+Less than a Bachelors,20,"Ruby, Swift",1147080
+Less than a Bachelors,31,"Java, Swift",1388532
+PhD,24,"JavaScript, Swift",2421060
+Master's degree,43,"Java, C++",2485428
+Less than a Bachelors,19,"JavaScript, C++",1146000
+Bachelor's degree,8,"JavaScript, C++",1163712
+Less than a Bachelors,37,"JavaScript, C++",1536108
+PhD,6,"PHP, Ruby",1968516
+PhD,47,"JavaScript, Python",3011448
+PhD,43,JavaScript,2887296
+Bachelor's degree,11,Ruby,1258920
+Less than a Bachelors,26,JavaScript,1270296
+PhD,9,"Python, Ruby",2089608
+Less than a Bachelors,1,"Python, Swift",690396
+Less than a Bachelors,4,JavaScript,810612
+PhD,46,"JavaScript, Ruby",2932392
+Bachelor's degree,35,"Java, PHP",1827276
+Less than a Bachelors,35,Java,1444452
+Bachelor's degree,46,"Python, PHP",2158584
+PhD,12,"C++, Swift",2198040
+Bachelor's degree,15,Python,1405848
+Less than a Bachelors,21,Ruby,1114116
+Less than a Bachelors,8,"JavaScript, Swift",877476
+PhD,21,"JavaScript, Swift",2387052
+Less than a Bachelors,48,"JavaScript, Ruby",1758144
+Bachelor's degree,8,"C++, PHP",1210164
+Master's degree,19,"Java, Ruby",1980996
+Bachelor's degree,31,Java,1804860
+Less than a Bachelors,25,"Python, Swift",1266732
+Bachelor's degree,23,"Python, C++",1538580
+Bachelor's degree,37,"JavaScript, C++",1909080
+Bachelor's degree,43,Swift,2066748
+PhD,33,PHP,2682012
+Master's degree,33,"JavaScript, C++",2298888
+Master's degree,46,"C++, Ruby",2588928
+Master's degree,1,"Java, PHP",1485168
+PhD,15,"PHP, Swift",2268468
+Less than a Bachelors,8,"C++, PHP",796380
+Master's degree,40,"JavaScript, Python",2420640
+Less than a Bachelors,42,"Python, C++",1682772
+Bachelor's degree,48,"Python, Ruby",2151924
+Bachelor's degree,14,"PHP, Ruby",1298124
+Master's degree,26,"Python, PHP",2127708
+Master's degree,17,"Java, C++",1910664
+PhD,20,"Python, C++",2339868
+Bachelor's degree,0,"Ruby, Swift",994764
+Master's degree,34,"Python, C++",2331696
+PhD,14,"JavaScript, Ruby",2159088
+Bachelor's degree,35,"JavaScript, Python",1887540
+Less than a Bachelors,49,"Java, Ruby",1799472
+Less than a Bachelors,17,"Python, Swift",1103304
+Bachelor's degree,18,"JavaScript, Java",1402824
+Less than a Bachelors,0,"Python, C++",663276
+Bachelor's degree,3,"C++, Ruby",1084896
+Bachelor's degree,4,"C++, PHP",1083096
+Master's degree,14,Java,1835580
+PhD,0,"Java, C++",1809924
+Less than a Bachelors,14,"C++, PHP",1027356
+Master's degree,13,"Java, C++",1779108
+Master's degree,9,"Python, Swift",1668288
+Bachelor's degree,0,"Python, Swift",967416
+Less than a Bachelors,0,"Python, Swift",630564
+Less than a Bachelors,30,"Python, C++",1340616
+Master's degree,44,"Java, PHP",2577000
+PhD,24,"Python, PHP",2491896
+Bachelor's degree,28,"Java, PHP",1748460
+Master's degree,25,"C++, Swift",2047056
+Less than a Bachelors,1,C++,696504
+Bachelor's degree,20,"C++, PHP",1533156
+PhD,17,JavaScript,2298528
+Master's degree,9,C++,1764876
+PhD,7,Swift,1979628
+Master's degree,33,"JavaScript, PHP",2273556
+PhD,31,"JavaScript, Python",2655192
+Bachelor's degree,20,"JavaScript, Swift",1512780
+Less than a Bachelors,23,"Python, PHP",1252296
+PhD,2,"PHP, Ruby",1917948
+Less than a Bachelors,0,"JavaScript, Swift",622284
+Bachelor's degree,50,PHP,2191824
+Less than a Bachelors,10,"Java, Ruby",940404
+PhD,16,Java,2262804
+Bachelor's degree,46,PHP,2065944
+Less than a Bachelors,47,JavaScript,1764420
+Bachelor's degree,34,"C++, Swift",1849140
+Master's degree,41,"Ruby, Swift",2466336
+PhD,11,"PHP, Swift",2109840
+Less than a Bachelors,3,"PHP, Swift",685848
+Master's degree,38,"JavaScript, C++",2441652
+PhD,7,"JavaScript, Java",1994352
+Less than a Bachelors,8,C++,842832
+PhD,10,"PHP, Ruby",2076900
+Bachelor's degree,21,"PHP, Swift",1530276
+Less than a Bachelors,44,"PHP, Ruby",1727520
+Less than a Bachelors,17,"JavaScript, PHP",1058772
+PhD,48,Java,2974056
+Less than a Bachelors,46,"Python, C++",1777704
+Master's degree,24,"JavaScript, Ruby",2130720
+PhD,11,"Python, Ruby",2163000
+Less than a Bachelors,0,JavaScript,618372
+PhD,42,"Python, Swift",2816400
+Bachelor's degree,37,"PHP, Ruby",1888764
+Less than a Bachelors,29,C++,1298928
+Master's degree,32,"Python, Java",2214840
+Less than a Bachelors,33,"Python, Java",1440780
+Master's degree,8,"C++, Swift",1664100
+PhD,6,"Java, C++",2006976
+Less than a Bachelors,37,"Python, Ruby",1518072
+Master's degree,24,"Java, PHP",2036448
+Less than a Bachelors,5,"Java, PHP",745392
+PhD,30,"JavaScript, C++",2535924
+Less than a Bachelors,28,Java,1386132
+Less than a Bachelors,16,"C++, Ruby",1039416
+Bachelor's degree,24,JavaScript,1618992
+PhD,17,Ruby,2234676
+Master's degree,15,"PHP, Ruby",1893636
+Less than a Bachelors,15,"JavaScript, Python",1042584
+Bachelor's degree,26,"C++, PHP",1585584
+PhD,40,"JavaScript, PHP",2837376
+Master's degree,8,"Ruby, Swift",1657764
+Master's degree,29,"Python, Swift",2207712
+Master's degree,1,PHP,1510632
+PhD,3,"Java, Ruby",1896084
+Bachelor's degree,13,"Python, Swift",1278720
+Bachelor's degree,37,"JavaScript, Java",1889664
+Master's degree,48,"JavaScript, Swift",2666196
+Less than a Bachelors,40,"Java, Ruby",1622784
+Bachelor's degree,50,"PHP, Ruby",2250024
+Master's degree,42,"Ruby, Swift",2474808
+Less than a Bachelors,43,"C++, PHP",1722936
+Bachelor's degree,11,C++,1251864
+PhD,8,"Ruby, Swift",2015808
+Master's degree,14,"JavaScript, Swift",1837440
+Master's degree,48,"JavaScript, Ruby",2690556
+PhD,16,Ruby,2197776
+Master's degree,36,"Python, C++",2395608
+Bachelor's degree,30,"Python, Java",1793100
+Master's degree,21,"JavaScript, PHP",1982280
+Master's degree,3,"Java, C++",1538220
+Master's degree,5,"Python, Ruby",1651740
+Less than a Bachelors,50,"C++, PHP",1891128
+Less than a Bachelors,31,"Java, C++",1370064
+Bachelor's degree,27,"Ruby, Swift",1639176
+Master's degree,49,"Java, Swift",2648664
+PhD,33,"Java, PHP",2699832
+Master's degree,36,"C++, Ruby",2308404
+PhD,35,"Java, C++",2685816
+Less than a Bachelors,33,"JavaScript, Java",1494108
+Bachelor's degree,13,"Java, Ruby",1356924
+PhD,32,Java,2625084
+Master's degree,10,"JavaScript, Java",1698204
+Master's degree,41,"Python, C++",2511756
+PhD,31,C++,2572764
+Less than a Bachelors,40,"PHP, Ruby",1657284
+Bachelor's degree,10,"Python, Ruby",1267212
+Bachelor's degree,46,"Python, Java",2106528
+Bachelor's degree,9,Swift,1295124
+Bachelor's degree,37,"C++, Swift",1940796
+Less than a Bachelors,18,Swift,1099548
+Less than a Bachelors,22,"Python, Ruby",1150332
+Master's degree,45,"C++, Swift",2638740
+Bachelor's degree,48,PHP,2114076
+Less than a Bachelors,35,"Python, PHP",1499772
+Master's degree,0,"Python, C++",1505388
+Master's degree,17,Python,1934052
+Bachelor's degree,24,"Ruby, Swift",1542804
+Master's degree,7,"JavaScript, Ruby",1694736
+PhD,47,"C++, Ruby",3001308
+Bachelor's degree,43,"Ruby, Swift",2053776
+PhD,11,"JavaScript, C++",2163312
+Less than a Bachelors,37,"JavaScript, PHP",1538532
+Less than a Bachelors,10,"Python, PHP",950868
+Less than a Bachelors,43,C++,1748544
+Master's degree,19,"Python, Java",1945164
+Less than a Bachelors,40,"C++, PHP",1575360
+PhD,22,Swift,2356956
+Master's degree,23,"Java, PHP",2083524
+PhD,18,Python,2324364
+Master's degree,42,"JavaScript, PHP",2544180
+Less than a Bachelors,30,PHP,1399692
+Bachelor's degree,6,"JavaScript, PHP",1146708
+Less than a Bachelors,22,JavaScript,1183500
+PhD,46,"JavaScript, Swift",2959884
+PhD,28,"C++, Swift",2569728
+Less than a Bachelors,20,Java,1142040
+PhD,20,"Python, Swift",2336640
+Master's degree,23,"PHP, Swift",2083524
+Master's degree,25,Swift,2069436
+Master's degree,42,Java,2527908
+PhD,40,"C++, Swift",2764656
+PhD,17,"PHP, Ruby",2250672
+PhD,32,"Python, Swift",2610348
+Less than a Bachelors,10,Ruby,944700
+PhD,9,"C++, PHP",2130576
+PhD,14,Java,2242080
+PhD,40,PHP,2846904
+Master's degree,7,Python,1652304
+PhD,11,"JavaScript, PHP",2157756
+Bachelor's degree,17,"Python, C++",1432956
+PhD,6,Ruby,1947072
+Less than a Bachelors,19,PHP,1075608
+Bachelor's degree,32,"Python, C++",1829820
+Master's degree,44,"JavaScript, Python",2553576
+Less than a Bachelors,49,"C++, PHP",1786608
+Bachelor's degree,47,"Python, Java",2141136
+Less than a Bachelors,26,Python,1289940
+Bachelor's degree,43,"JavaScript, C++",2078976
+Bachelor's degree,34,"Python, PHP",1853556
+Master's degree,28,"PHP, Ruby",2176824
+Less than a Bachelors,0,Ruby,718860
+Less than a Bachelors,19,"Python, Swift",1158120
+Bachelor's degree,17,"JavaScript, Swift",1484700
+Bachelor's degree,18,"Python, PHP",1480032
+PhD,47,"Java, C++",2988876
+Less than a Bachelors,46,"Java, Ruby",1779168
+Less than a Bachelors,42,C++,1656000
+Less than a Bachelors,12,"Java, Swift",943440
+Less than a Bachelors,37,"Java, C++",1493676
+PhD,40,Java,2774568
+Less than a Bachelors,25,"Java, Swift",1289820
+Bachelor's degree,19,"Java, C++",1521132
+Bachelor's degree,15,PHP,1438932
+PhD,12,"Java, C++",2111760
+PhD,23,"C++, Swift",2395548
+PhD,33,"PHP, Swift",2623872
+Bachelor's degree,30,C++,1701012
+Master's degree,7,"PHP, Swift",1698912
+Bachelor's degree,31,Swift,1706592
+Master's degree,40,Ruby,2408628
+Bachelor's degree,2,"Python, Java",1112928
+PhD,2,"C++, PHP",1957512
+Less than a Bachelors,38,"PHP, Ruby",1514412
+Master's degree,15,"Python, Swift",1911924
+PhD,41,JavaScript,2858268
+PhD,13,"Python, PHP",2114976
+Bachelor's degree,31,"JavaScript, Python",1796508
+Bachelor's degree,43,"C++, Swift",2063868
+Bachelor's degree,14,Python,1310676
+Bachelor's degree,34,"C++, PHP",1781040
+Master's degree,12,"JavaScript, Swift",1807008
+Master's degree,21,JavaScript,2008608
+PhD,25,"JavaScript, Ruby",2498760
+Master's degree,14,"C++, Ruby",1798404
+Less than a Bachelors,24,"Python, Swift",1280916
+Master's degree,4,Java,1578672
+Less than a Bachelors,18,"Java, Swift",1079280
+Master's degree,13,Swift,1855032
+Bachelor's degree,21,Python,1502904
+Master's degree,22,"C++, Ruby",1984404
+Bachelor's degree,38,"JavaScript, Python",1874244
+Master's degree,7,"JavaScript, C++",1725888
+PhD,36,Python,2664936
+Bachelor's degree,9,PHP,1222704
+Master's degree,41,"Python, PHP",2446272
+Master's degree,20,Python,1961772
+Bachelor's degree,1,"Python, C++",1010664
+Master's degree,6,Swift,1679736
+Master's degree,31,"C++, Ruby",2296032
+Master's degree,32,"Java, C++",2247264
+Bachelor's degree,24,Java,1542516
+Master's degree,24,"JavaScript, Swift",2099592
+Less than a Bachelors,17,"C++, Swift",1054980
+Less than a Bachelors,41,"JavaScript, PHP",1594776
+Bachelor's degree,11,"JavaScript, C++",1328784
+Bachelor's degree,4,"JavaScript, Swift",1154916
+Less than a Bachelors,16,"Python, Ruby",1061796
+Less than a Bachelors,37,"Java, Ruby",1583664
+Master's degree,14,"C++, PHP",1886688
+PhD,43,"JavaScript, Python",2891784
+Master's degree,25,"JavaScript, Python",2081700
+Master's degree,35,"Python, PHP",2345364
+Bachelor's degree,20,"Python, PHP",1449924
+Bachelor's degree,7,"Java, C++",1240272
+Master's degree,15,PHP,1868724
+Master's degree,37,"Python, Swift",2417820
+Less than a Bachelors,20,C++,1090392
+Master's degree,16,"Python, C++",1930992
+PhD,15,"Ruby, Swift",2176764
+Bachelor's degree,26,"Java, PHP",1616352
+Less than a Bachelors,7,"Java, Swift",797676
+PhD,10,"JavaScript, Swift",2065968
+Less than a Bachelors,41,"Python, C++",1621884
+PhD,5,"Java, Swift",2014320
+Less than a Bachelors,19,"Python, Java",1161912
+Bachelor's degree,4,"JavaScript, Python",1102548
+Less than a Bachelors,49,"Java, C++",1832700
+Bachelor's degree,33,"C++, Swift",1769304
+Bachelor's degree,37,"JavaScript, PHP",1859928
+Less than a Bachelors,8,"Ruby, Swift",877152
+Bachelor's degree,48,"Python, Java",2189268
+Bachelor's degree,7,"C++, PHP",1238280
+Less than a Bachelors,41,"C++, Swift",1682496
+PhD,35,"PHP, Swift",2748024
+Master's degree,44,"JavaScript, Java",2541072
+PhD,38,"Java, Ruby",2792640
+Bachelor's degree,4,"Python, Swift",1093296
+Bachelor's degree,22,"JavaScript, Swift",1579008
+Less than a Bachelors,5,"PHP, Ruby",754176
+Master's degree,30,C++,2270844
+Bachelor's degree,11,"Python, C++",1261884
+Bachelor's degree,15,"JavaScript, Swift",1342236
+Less than a Bachelors,47,Python,1805904
+Master's degree,7,"JavaScript, PHP",1710552
+Bachelor's degree,16,"C++, Swift",1400460
+Less than a Bachelors,0,"Ruby, Swift",712020
+PhD,40,"JavaScript, Python",2855436
+Less than a Bachelors,41,"Python, Ruby",1634064
+PhD,10,"Java, C++",2069784
+Bachelor's degree,13,Swift,1328196
+Master's degree,30,"C++, Ruby",2256660
+PhD,4,"JavaScript, PHP",2009436
+Bachelor's degree,30,"Java, Swift",1757124
+PhD,48,"Java, PHP",2988300
+Master's degree,24,"Python, Java",2092452
+Bachelor's degree,46,Ruby,2122056
+Master's degree,23,"JavaScript, Swift",2044512
+Master's degree,38,PHP,2361648
+Bachelor's degree,44,"Python, Java",2032392
+Bachelor's degree,30,Ruby,1730952
+Bachelor's degree,13,"JavaScript, C++",1372104
+Less than a Bachelors,32,"JavaScript, Swift",1402236
+Bachelor's degree,49,"Python, Ruby",2198172
+Less than a Bachelors,39,Ruby,1585428
+Master's degree,28,"C++, PHP",2116944
+Bachelor's degree,38,"JavaScript, Swift",1909272
+Master's degree,40,"C++, PHP",2518788
+Less than a Bachelors,21,Swift,1217460
+Master's degree,0,"Java, C++",1504848
+Less than a Bachelors,28,"JavaScript, Swift",1373292
+Master's degree,17,"JavaScript, C++",1920636
+Less than a Bachelors,42,"JavaScript, Ruby",1625868
+Bachelor's degree,17,"C++, Swift",1454664
+Master's degree,1,"JavaScript, PHP",1516476
+Less than a Bachelors,11,"C++, Ruby",886188
+Bachelor's degree,10,"Java, PHP",1278648
+Bachelor's degree,15,"JavaScript, Java",1365048
+Less than a Bachelors,1,"Python, PHP",627804
+Bachelor's degree,13,"Python, Java",1278720
+Bachelor's degree,34,"Ruby, Swift",1843680
+PhD,14,"Python, C++",2138004
+Less than a Bachelors,13,"Java, C++",944136
+Master's degree,15,"C++, Ruby",1907688
+Less than a Bachelors,10,"JavaScript, Swift",897108
+Master's degree,2,C++,1519788
+Master's degree,37,"Java, Ruby",2344992
+PhD,40,"Ruby, Swift",2766396
+Bachelor's degree,40,"JavaScript, Python",1923228
+PhD,10,C++,2050476
+Less than a Bachelors,9,"JavaScript, Python",892380
+Less than a Bachelors,26,"JavaScript, Java",1238760
+PhD,30,"Python, C++",2582076
+PhD,39,"JavaScript, C++",2830080
+Master's degree,34,"Python, Ruby",2263764
+PhD,37,"JavaScript, Ruby",2694768
+Less than a Bachelors,12,"Python, Swift",993888
+Less than a Bachelors,25,"Python, C++",1238724
+Bachelor's degree,42,"Python, Swift",2049084
+Less than a Bachelors,1,"JavaScript, Java",702204
+Bachelor's degree,27,"Python, PHP",1704720
+PhD,8,"Java, C++",2091504
+Master's degree,14,"Java, C++",1803864
+Bachelor's degree,22,"Java, Swift",1496496
+Bachelor's degree,30,"Java, Ruby",1742604
+PhD,15,"Java, PHP",2210988
+Master's degree,35,"C++, Ruby",2298420
+PhD,29,Python,2607060
+Less than a Bachelors,23,C++,1266888
+Less than a Bachelors,45,"C++, Ruby",1704552
+PhD,0,"Python, Ruby",1832868
+PhD,14,"PHP, Swift",2188500
+Less than a Bachelors,0,"C++, Ruby",641124
+Less than a Bachelors,14,"JavaScript, Java",1047276
+Master's degree,41,"JavaScript, Java",2534604
+Less than a Bachelors,48,"JavaScript, Swift",1787628
+Master's degree,26,C++,2116392
+Bachelor's degree,29,Java,1671900
+Less than a Bachelors,22,"Ruby, Swift",1188420
+PhD,27,"Python, Swift",2565996
+Less than a Bachelors,21,"Python, C++",1134588
+Bachelor's degree,23,"Ruby, Swift",1623096
+PhD,29,"C++, Ruby",2578620
+Bachelor's degree,12,"Python, Ruby",1310220
+Less than a Bachelors,7,"Java, PHP",814728
+Less than a Bachelors,39,"Java, PHP",1597740
+PhD,16,"JavaScript, PHP",2299740
+Master's degree,15,Java,1894260
+PhD,5,"PHP, Ruby",1967196
+Master's degree,11,"Java, PHP",1795200
+Less than a Bachelors,17,"PHP, Ruby",1124544
+Master's degree,18,JavaScript,1873428
+PhD,22,JavaScript,2446332
+Bachelor's degree,14,Ruby,1344660
+PhD,21,"PHP, Swift",2397396
+Master's degree,21,"Java, Swift",1997112
+Master's degree,23,Swift,1998168
+Bachelor's degree,26,"Python, C++",1674912
+Master's degree,43,"JavaScript, Python",2473344
+Bachelor's degree,41,"Python, C++",2046768
+Less than a Bachelors,11,PHP,953892
+PhD,31,"C++, Swift",2660976
+PhD,10,"C++, PHP",2054976
+PhD,21,"C++, PHP",2329344
+PhD,35,Ruby,2676264
+PhD,3,"C++, PHP",1880832
+Master's degree,49,"JavaScript, Python",2663700
+Master's degree,3,"JavaScript, Swift",1563960
+Less than a Bachelors,18,"PHP, Ruby",1070772
+Master's degree,1,"JavaScript, C++",1511952
+PhD,34,"JavaScript, Python",2681292
+PhD,12,Swift,2198136
+Less than a Bachelors,27,Python,1303728
+PhD,9,"JavaScript, Python",2084376
+Bachelor's degree,15,"C++, Ruby",1358340
+Less than a Bachelors,9,"JavaScript, Swift",853764
+Less than a Bachelors,34,"Python, C++",1451712
+Bachelor's degree,11,PHP,1271244
+Master's degree,44,Swift,2573892
+PhD,50,"Java, PHP",3057384
+Less than a Bachelors,5,C++,740904
+Bachelor's degree,29,"Python, Swift",1749252
+Less than a Bachelors,12,PHP,977256
+Less than a Bachelors,50,"C++, Ruby",1865412
+Less than a Bachelors,7,"JavaScript, PHP",844236
+Less than a Bachelors,35,JavaScript,1446552
+Master's degree,50,"PHP, Swift",2672004
+PhD,16,"PHP, Ruby",2188428
+Less than a Bachelors,36,"JavaScript, PHP",1515720
+Master's degree,26,"JavaScript, Swift",2147640
+Master's degree,23,"Python, PHP",2104200
+Bachelor's degree,12,"PHP, Swift",1268172
+Master's degree,42,Swift,2557584
+Less than a Bachelors,43,"C++, Swift",1685640
+PhD,17,"JavaScript, Ruby",2281896
+Bachelor's degree,6,"Java, Swift",1211544
+Less than a Bachelors,44,"Java, Swift",1749144
+PhD,3,"JavaScript, C++",1986156
+PhD,2,"Java, C++",1918536
+Less than a Bachelors,2,"Java, PHP",715236
+Bachelor's degree,0,"C++, Ruby",960096
+PhD,37,Java,2797140
+PhD,21,"Java, C++",2333160
+Bachelor's degree,47,"Python, PHP",2191524
+Less than a Bachelors,40,"Python, Java",1605216
+Bachelor's degree,8,"Java, PHP",1263024
+Master's degree,2,"JavaScript, C++",1531908
+Less than a Bachelors,29,"C++, Ruby",1311228
+Less than a Bachelors,28,"JavaScript, Ruby",1295220
+Bachelor's degree,21,"Python, Swift",1488156
+Bachelor's degree,36,Java,1887192
+Master's degree,1,"Python, Ruby",1571076
+Bachelor's degree,14,"Java, PHP",1365324
+PhD,19,"JavaScript, Python",2289960
+Master's degree,33,"Python, Java",2260608
+PhD,34,"Python, Java",2714208
+Less than a Bachelors,15,"PHP, Swift",1073052
+Master's degree,4,JavaScript,1606884
+Less than a Bachelors,20,"JavaScript, Python",1186332
+PhD,29,"JavaScript, Java",2539608
+Bachelor's degree,27,Python,1645212
+Less than a Bachelors,23,"PHP, Ruby",1223496
+PhD,25,"Java, C++",2509092
+Master's degree,5,"C++, Swift",1637868
+Bachelor's degree,35,"Python, PHP",1818000
+Master's degree,37,"Python, Java",2360448
+Master's degree,26,Java,2067060
+Master's degree,34,"PHP, Ruby",2350656
+PhD,4,"Python, Java",1978056
+PhD,16,"Python, C++",2298132
+PhD,17,"Python, C++",2230296
+Less than a Bachelors,10,"JavaScript, Java",888264
+Master's degree,47,"C++, Swift",2592624
+Bachelor's degree,39,"Python, Ruby",2004192
+Master's degree,18,Swift,1952616
+Bachelor's degree,25,"Python, Swift",1583796
+Less than a Bachelors,34,"JavaScript, C++",1515840
+Master's degree,27,C++,2098824
+Bachelor's degree,32,"JavaScript, Ruby",1787844
+Master's degree,47,Python,2629332
+Bachelor's degree,35,Python,1851972
+Master's degree,11,"Java, Ruby",1784532
+Master's degree,44,"C++, Swift",2597016
+Less than a Bachelors,1,"Ruby, Swift",675084
+Master's degree,45,PHP,2627748
+Bachelor's degree,11,"Python, Ruby",1230912
+Master's degree,49,"Python, Java",2697444
+Master's degree,30,"JavaScript, Ruby",2166588
+PhD,42,JavaScript,2923524
+Less than a Bachelors,14,"C++, Swift",1020276
+Less than a Bachelors,43,Java,1687548
+Less than a Bachelors,4,"Python, Swift",788916
+PhD,45,"JavaScript, Python",2907852
+Bachelor's degree,16,"Java, PHP",1454652
+PhD,31,"Python, Swift",2586804
+Bachelor's degree,33,"JavaScript, Python",1785480
+PhD,44,"PHP, Swift",2971752
+PhD,46,"C++, PHP",2939124
+Less than a Bachelors,27,Swift,1309716
+Master's degree,44,"Ruby, Swift",2497056
+PhD,4,"PHP, Ruby",1908660
+Master's degree,22,"JavaScript, Ruby",1988856
+Bachelor's degree,12,"Java, Swift",1366020
+Bachelor's degree,9,"JavaScript, Swift",1219764
+Bachelor's degree,36,"Java, Ruby",1906488
+Less than a Bachelors,38,"PHP, Swift",1603596
+Master's degree,43,"Java, Swift",2481336
+Less than a Bachelors,38,"Python, Ruby",1520976
+PhD,47,Ruby,3016608
+Master's degree,26,Python,2079012
+Less than a Bachelors,45,Swift,1700484
+PhD,43,PHP,2925624
+Master's degree,4,"Python, Java",1600296
+Master's degree,45,"Java, Ruby",2597064
+Less than a Bachelors,39,Swift,1538340
+Master's degree,50,Python,2662332
+Bachelor's degree,3,Python,1142808
+Bachelor's degree,43,"JavaScript, Java",1994580
+Master's degree,9,"C++, Ruby",1669428
+PhD,11,"JavaScript, Ruby",2091732
+Master's degree,20,C++,1964496
+Master's degree,14,Swift,1878288
+PhD,15,"Python, Swift",2201040
+Master's degree,18,C++,1884300
+Less than a Bachelors,7,"PHP, Ruby",886848
+PhD,10,"PHP, Swift",2059152
+Master's degree,9,"Java, PHP",1741920
+Bachelor's degree,40,Java,1999440
+PhD,12,"Python, C++",2160816
+Bachelor's degree,50,"JavaScript, Swift",2235024
+Less than a Bachelors,37,"JavaScript, Ruby",1518864
+PhD,48,Python,3026244
+Master's degree,13,"Python, Java",1791888
+Less than a Bachelors,31,Python,1409448
+Bachelor's degree,45,"Java, C++",2138856
+PhD,45,Swift,2946552
+Less than a Bachelors,23,"Python, Ruby",1200576
+PhD,44,"Java, Swift",2967216
+Bachelor's degree,21,"C++, PHP",1478784
+Master's degree,49,"C++, PHP",2630628
+PhD,42,"JavaScript, Python",2860224
+Bachelor's degree,26,C++,1666224
+Master's degree,24,JavaScript,2113008
+Less than a Bachelors,35,"Ruby, Swift",1443420
+Bachelor's degree,27,"JavaScript, Ruby",1717476
+PhD,44,Swift,2906196
+Bachelor's degree,40,C++,1943112
+Master's degree,22,"JavaScript, C++",2060364
+PhD,40,"C++, Ruby",2818560
+Master's degree,46,"Java, C++",2565204
+Master's degree,19,"Java, Swift",1937772
+PhD,25,"PHP, Swift",2411496
+Bachelor's degree,44,"Python, Swift",2082024
+PhD,24,"PHP, Ruby",2430108
+Bachelor's degree,25,"Java, Swift",1600716
+Less than a Bachelors,37,"PHP, Ruby",1594800
+Less than a Bachelors,28,"JavaScript, Java",1377252
+PhD,22,PHP,2440788
+PhD,9,Ruby,2029728
+PhD,38,"JavaScript, PHP",2798676
+PhD,23,PHP,2404260
+Bachelor's degree,23,Python,1605276
+Bachelor's degree,50,Java,2191344
+Master's degree,6,"Java, C++",1634940
+Master's degree,48,"JavaScript, Java",2626080
+Less than a Bachelors,45,"Java, Swift",1730232
+Bachelor's degree,39,"C++, PHP",1932036
+Master's degree,32,"JavaScript, Python",2217408
+Less than a Bachelors,26,"Java, C++",1240680
+Master's degree,11,"Ruby, Swift",1737396
+Less than a Bachelors,47,"Java, C++",1790100
+Master's degree,45,"Java, C++",2550612
+Bachelor's degree,49,"Java, C++",2154756
+PhD,38,Ruby,2777616
+Bachelor's degree,39,Swift,1985652
+Bachelor's degree,30,"JavaScript, Swift",1687296
+PhD,12,"JavaScript, C++",2168592
+Master's degree,27,"JavaScript, Ruby",2168520
+Master's degree,21,"Python, Swift",2009292
+Less than a Bachelors,22,"C++, PHP",1165008
+Bachelor's degree,15,"Python, Swift",1434372
+Bachelor's degree,5,"C++, Swift",1167816
+PhD,26,Ruby,2461200
+Less than a Bachelors,36,JavaScript,1543308
+Bachelor's degree,5,"C++, Ruby",1142088
+PhD,5,"Ruby, Swift",1995348
+Bachelor's degree,37,Swift,1857012
+Less than a Bachelors,27,JavaScript,1278888
+Master's degree,38,"JavaScript, Python",2423472
+Less than a Bachelors,39,PHP,1631844
+Master's degree,49,"Java, PHP",2709384
+PhD,49,"C++, Ruby",3081240
+Master's degree,5,"Java, Ruby",1674660
+Less than a Bachelors,30,"Python, Swift",1353528
+Bachelor's degree,2,"Java, Swift",1016772
+PhD,34,"C++, Swift",2672472
+Bachelor's degree,7,"JavaScript, Java",1140036
+Less than a Bachelors,47,PHP,1832736
+Less than a Bachelors,9,"JavaScript, Ruby",902844
+Less than a Bachelors,50,"Python, Ruby",1867740
+Master's degree,28,"Python, Ruby",2168496
+Bachelor's degree,16,"JavaScript, Swift",1452528
+Master's degree,45,"PHP, Swift",2537616
+Less than a Bachelors,27,"Python, Swift",1277148
+Less than a Bachelors,4,"PHP, Swift",729348
+Less than a Bachelors,44,Ruby,1730196
+Master's degree,50,Ruby,2712756
+Bachelor's degree,22,PHP,1498692
+Bachelor's degree,1,Python,1067952
+Master's degree,24,"C++, PHP",2135580
+Master's degree,35,"JavaScript, Ruby",2316480
+Bachelor's degree,45,"JavaScript, PHP",2101488
+Less than a Bachelors,0,"PHP, Ruby",647580
+Less than a Bachelors,31,"JavaScript, Python",1361436
+Bachelor's degree,9,"JavaScript, C++",1213656
+Bachelor's degree,41,Python,1975572
+Master's degree,36,"C++, Swift",2365440
+PhD,49,"Ruby, Swift",3078372
+PhD,23,"C++, Ruby",2365152
+Less than a Bachelors,20,"Java, Swift",1145976
+PhD,49,Swift,3026136
+PhD,32,"Python, Java",2577696
+Bachelor's degree,3,"Python, PHP",1126416
+PhD,34,"Java, Swift",2624508
+Master's degree,40,"Java, Swift",2400600
+Less than a Bachelors,49,"C++, Ruby",1833216
+PhD,46,JavaScript,2939364
+Bachelor's degree,43,"JavaScript, Swift",2085816
+Bachelor's degree,40,"JavaScript, Ruby",1985664
+Less than a Bachelors,4,"JavaScript, Swift",755388
+Master's degree,38,"Java, C++",2438304
+Bachelor's degree,0,"Python, C++",986820
+Master's degree,35,"JavaScript, PHP",2296416
+Less than a Bachelors,23,"JavaScript, Java",1231800
+Less than a Bachelors,23,"Java, PHP",1215636
+Less than a Bachelors,43,"PHP, Ruby",1696500
+PhD,11,Java,2180484
+Less than a Bachelors,46,"C++, Ruby",1744416
+PhD,49,"Python, Java",2983380
+Master's degree,0,"C++, PHP",1506612
+Less than a Bachelors,10,"JavaScript, Ruby",847884
+Master's degree,17,"C++, Ruby",1855176
+Less than a Bachelors,9,"Python, PHP",867768
+Master's degree,49,"Java, Ruby",2616924
+PhD,19,PHP,2317164
+Master's degree,3,"Ruby, Swift",1517280
+Master's degree,34,Swift,2261628
+Less than a Bachelors,4,PHP,779640
+Less than a Bachelors,50,Java,1819524
+Less than a Bachelors,41,"Python, Java",1651500
+PhD,34,Java,2682036
+PhD,41,"Java, PHP",2795340
+PhD,25,"JavaScript, Java",2441796
+PhD,34,"Python, Swift",2660520
+Master's degree,30,"Python, C++",2181864
+PhD,34,"Java, C++",2653068
+Master's degree,3,Python,1619448
+Less than a Bachelors,42,"Java, Swift",1723932
+Less than a Bachelors,14,"JavaScript, Swift",1007796
+Master's degree,20,"Java, Ruby",1985280
+Less than a Bachelors,6,"JavaScript, C++",816336
+Bachelor's degree,9,"Ruby, Swift",1228932
+PhD,46,"Java, C++",2933340
+Master's degree,27,"JavaScript, Swift",2138904
+Less than a Bachelors,13,"Java, PHP",989520
+PhD,17,"JavaScript, PHP",2324664
+Less than a Bachelors,10,"Python, C++",932532
+Master's degree,29,"JavaScript, Java",2251872
+Less than a Bachelors,14,"JavaScript, Python",977256
+Less than a Bachelors,37,"Python, C++",1575732
+Bachelor's degree,28,"Python, Swift",1722156
+Master's degree,49,"JavaScript, PHP",2679588
+Bachelor's degree,49,"Python, PHP",2151132
+Master's degree,24,"PHP, Ruby",2119404
+Master's degree,25,"Python, Ruby",2127312
+Less than a Bachelors,6,Swift,756396
+Master's degree,5,"Java, C++",1653216
+PhD,42,"Java, C++",2869644
+Less than a Bachelors,39,"Python, PHP",1585212
+Bachelor's degree,32,"C++, PHP",1783416
+Bachelor's degree,47,"JavaScript, Ruby",2187972
+Less than a Bachelors,38,"Java, Swift",1627464
+Master's degree,6,"Java, Swift",1591368
+Master's degree,23,"Python, Swift",1996500
+Less than a Bachelors,36,"C++, PHP",1509852
+PhD,45,"Python, PHP",2942184
+Master's degree,25,"C++, PHP",2156796
+Master's degree,16,"Python, Swift",1881948
+Less than a Bachelors,48,"Python, Swift",1869792
+Master's degree,11,"JavaScript, C++",1723584
+Bachelor's degree,44,"JavaScript, Ruby",2039928
+Master's degree,31,"JavaScript, C++",2227116
+Bachelor's degree,10,"JavaScript, Java",1273440
+Master's degree,14,Ruby,1859856
+Bachelor's degree,18,"Python, Ruby",1448412
+Bachelor's degree,45,Ruby,2058156
+Less than a Bachelors,41,Java,1696620
+PhD,33,"Ruby, Swift",2657544
+Master's degree,21,"Python, C++",2027688
+Master's degree,50,"JavaScript, Java",2652036
+PhD,13,C++,2118096
+Bachelor's degree,21,"Java, C++",1573032
+Master's degree,30,Python,2253900
+Master's degree,32,"Python, PHP",2316096
+Less than a Bachelors,26,"Java, Ruby",1302084
+Bachelor's degree,29,Python,1686720
+Bachelor's degree,19,"C++, Ruby",1486164
+PhD,30,"Python, Ruby",2586792
+Master's degree,14,"C++, Swift",1812552
+Master's degree,50,PHP,2707464
+Bachelor's degree,9,"Python, C++",1227060
+Master's degree,33,"Ruby, Swift",2257284
+Master's degree,39,"C++, Swift",2398776
+Master's degree,16,PHP,1935048
+Master's degree,48,JavaScript,2677656
+Less than a Bachelors,1,"JavaScript, PHP",643164
+PhD,27,"Java, Ruby",2527092
+Master's degree,19,"C++, Ruby",1987248
+Bachelor's degree,28,"C++, PHP",1714176
+Master's degree,19,"JavaScript, Ruby",1925268
+Less than a Bachelors,43,Swift,1687428
+Less than a Bachelors,23,"C++, Swift",1249740
+PhD,4,Swift,1983912
+Less than a Bachelors,14,Ruby,1018260
+Master's degree,44,"PHP, Swift",2609424
+PhD,16,"Java, Swift",2186748
+Bachelor's degree,31,"Python, Java",1819260
+PhD,10,Python,2079924
+Less than a Bachelors,15,"Python, C++",1015344
+Master's degree,13,Python,1752744
+Master's degree,9,"JavaScript, Python",1772232
+Less than a Bachelors,48,Python,1778460
+PhD,5,Python,1959936
+Bachelor's degree,24,"Python, PHP",1610040
+PhD,41,"Python, Java",2869308
+Bachelor's degree,48,C++,2136180
+Master's degree,24,"Python, C++",2082408
+PhD,37,"Java, C++",2742312
+PhD,42,"C++, PHP",2864676
+PhD,47,"Python, Java",2933796
+Bachelor's degree,44,"C++, Swift",2090340
+Master's degree,8,"C++, PHP",1650876
+PhD,15,"JavaScript, Python",2261748
+Master's degree,30,"PHP, Ruby",2162676
+Bachelor's degree,36,Swift,1895268
+Master's degree,2,"PHP, Ruby",1536408
+Less than a Bachelors,16,"C++, PHP",993972
+Less than a Bachelors,21,"JavaScript, C++",1134816
+Master's degree,15,"JavaScript, Python",1846680
+PhD,33,"Python, Java",2602740
+PhD,2,Swift,1950084
+PhD,25,"Ruby, Swift",2440716
+Bachelor's degree,30,"JavaScript, C++",1703688
+Less than a Bachelors,12,"JavaScript, PHP",987924
+PhD,28,"Python, PHP",2586348
+Bachelor's degree,5,"Python, Swift",1139616
+Less than a Bachelors,4,"Java, Ruby",705648
+Master's degree,42,JavaScript,2470512
+Master's degree,22,"JavaScript, Python",2058624
+Master's degree,43,"JavaScript, Ruby",2524248
+Master's degree,36,Swift,2415480
+Less than a Bachelors,7,"Python, Java",856248
+PhD,3,"JavaScript, Ruby",1981104
+Master's degree,44,PHP,2601672
+Bachelor's degree,1,"PHP, Ruby",1027440
+PhD,28,JavaScript,2498784
+Less than a Bachelors,33,Ruby,1429404
+Less than a Bachelors,38,"Python, PHP",1561440
+Bachelor's degree,13,JavaScript,1334652
+PhD,9,"JavaScript, Swift",2052552
+Less than a Bachelors,27,"Java, C++",1337964
+Less than a Bachelors,19,"JavaScript, Ruby",1148976
+PhD,39,"JavaScript, PHP",2829324
+PhD,33,"JavaScript, Python",2610504
+Less than a Bachelors,8,"Python, Swift",879372
+PhD,14,"JavaScript, Swift",2182776
+Master's degree,30,"Python, Swift",2225016
+Master's degree,29,"JavaScript, Ruby",2230968
+PhD,43,"JavaScript, C++",2856372
+Bachelor's degree,35,"JavaScript, Java",1809276
+Master's degree,19,C++,1908636
+Less than a Bachelors,1,Ruby,680544
+Bachelor's degree,7,Java,1245192
+Less than a Bachelors,10,"PHP, Ruby",879048
+PhD,32,"JavaScript, C++",2585136
+Bachelor's degree,4,"Python, Java",1083156
+Less than a Bachelors,21,Python,1123656
+Master's degree,25,Python,2075052
+PhD,47,"JavaScript, C++",3046356
+Bachelor's degree,12,Python,1348296
+PhD,25,C++,2454420
+Bachelor's degree,1,PHP,1010712
+Bachelor's degree,38,"PHP, Swift",1969200
+Less than a Bachelors,23,"JavaScript, Python",1238328
+Less than a Bachelors,32,"Java, C++",1375152
+Less than a Bachelors,17,"C++, PHP",1025760
+Master's degree,8,"Java, PHP",1670376
+PhD,28,"JavaScript, Java",2509644
+Bachelor's degree,31,"Python, Ruby",1791036
+Master's degree,33,"PHP, Swift",2241828
+Master's degree,41,"Python, Swift",2542836
+Master's degree,38,C++,2412816
+Master's degree,29,"JavaScript, PHP",2150244
+Master's degree,2,JavaScript,1557372
+Bachelor's degree,23,"C++, Ruby",1621908
+Master's degree,2,"JavaScript, PHP",1494660
+PhD,41,"C++, Ruby",2827560
+Less than a Bachelors,16,"Python, PHP",1086588
+PhD,31,"Python, C++",2555028
+PhD,15,C++,2166384
+Less than a Bachelors,6,"Python, Swift",766632
+Less than a Bachelors,21,"C++, Swift",1169892
+Master's degree,20,"JavaScript, PHP",1970772
+Bachelor's degree,3,Ruby,1141884
+Master's degree,48,"Python, Java",2708796
+PhD,11,"Python, C++",2172624
+PhD,3,"JavaScript, PHP",1908492
+PhD,10,"Java, Ruby",2083152
+PhD,11,Python,2121708
+PhD,47,"JavaScript, Java",3042084
+Less than a Bachelors,40,"PHP, Swift",1636908
+Bachelor's degree,39,"JavaScript, Python",1901088
+Less than a Bachelors,20,JavaScript,1188900
+Master's degree,42,"PHP, Swift",2559204
+Bachelor's degree,42,"Java, PHP",2070024
+Less than a Bachelors,34,"JavaScript, Ruby",1474116
+Bachelor's degree,20,"JavaScript, Ruby",1488624
+PhD,4,"Java, Swift",2005356
+PhD,2,"C++, Swift",1900668
+Bachelor's degree,40,"Java, Ruby",1989420
+Bachelor's degree,47,"JavaScript, C++",2127072
+Less than a Bachelors,31,"C++, PHP",1404360
+Less than a Bachelors,1,"Python, Java",656316
+Less than a Bachelors,2,"JavaScript, C++",711396
+Less than a Bachelors,3,"JavaScript, Python",738888
+PhD,11,C++,2104476
+Master's degree,0,"C++, Ruby",1486032
+Master's degree,34,C++,2337948
+Less than a Bachelors,39,"Python, Swift",1561896
+Master's degree,32,"JavaScript, Ruby",2312808
+Master's degree,5,"Ruby, Swift",1661664
+PhD,31,"Java, Ruby",2627124
+Master's degree,28,"PHP, Swift",2127024
+Less than a Bachelors,47,"Java, Ruby",1751772
+Bachelor's degree,18,"JavaScript, Ruby",1407612
+Master's degree,27,JavaScript,2119776
+PhD,3,"JavaScript, Python",1945596
+Bachelor's degree,5,"Java, C++",1197408
+Bachelor's degree,35,"JavaScript, C++",1901892
+PhD,23,"Java, PHP",2423964
+Less than a Bachelors,38,"Java, PHP",1520484
+Less than a Bachelors,16,"PHP, Ruby",1078140
+Bachelor's degree,30,"Ruby, Swift",1716912
+Less than a Bachelors,17,"Python, C++",1049280
+PhD,41,"Python, Ruby",2845536
+Bachelor's degree,0,"C++, PHP",1000320
+Bachelor's degree,31,"JavaScript, Swift",1738068
+Master's degree,46,"JavaScript, Java",2624124
+Bachelor's degree,20,"JavaScript, Python",1464912
+Master's degree,16,"PHP, Swift",1912020
+PhD,48,"Ruby, Swift",3024996
+PhD,5,Ruby,1971288
+Less than a Bachelors,35,"C++, PHP",1540644
+Bachelor's degree,1,Java,1087260
+PhD,38,"JavaScript, C++",2756364
+Master's degree,19,PHP,1939884
+PhD,31,"JavaScript, PHP",2631204
+Bachelor's degree,12,"JavaScript, C++",1344600
+Bachelor's degree,18,Swift,1416036
+Bachelor's degree,49,"Python, C++",2250972
+Master's degree,29,"Java, Swift",2212248
+Less than a Bachelors,49,"Ruby, Swift",1871268
+Master's degree,50,"JavaScript, PHP",2742384
+PhD,22,"Python, Swift",2333928
+Less than a Bachelors,26,C++,1229520
+Master's degree,2,"Java, Swift",1525056
+Master's degree,44,"Python, Ruby",2575152
+Less than a Bachelors,24,"PHP, Ruby",1290984
+Less than a Bachelors,41,"JavaScript, Ruby",1654476
+Master's degree,32,"JavaScript, PHP",2327844
+Less than a Bachelors,0,"JavaScript, Python",623472
+Bachelor's degree,30,"PHP, Swift",1772832
+Master's degree,3,"Java, PHP",1571976
+Less than a Bachelors,16,C++,1094772
+Master's degree,11,"JavaScript, Java",1752324
+PhD,44,"JavaScript, Java",2944344
+Master's degree,27,Swift,2110812
+Bachelor's degree,41,"C++, Ruby",2036916
+Less than a Bachelors,4,"C++, Ruby",711816
+Less than a Bachelors,2,JavaScript,723540
+Less than a Bachelors,13,"Python, Java",997008
+Master's degree,22,"Java, Ruby",2079312
+Bachelor's degree,37,"C++, Ruby",1861056
+Master's degree,46,"Python, Ruby",2584992
+PhD,47,"JavaScript, Ruby",3017448
+Less than a Bachelors,25,"JavaScript, PHP",1205040
+Bachelor's degree,31,"Java, Swift",1750068
+Less than a Bachelors,16,JavaScript,995136
+Bachelor's degree,9,"Java, Swift",1184952
+Bachelor's degree,45,"Java, PHP",2107128
+Less than a Bachelors,50,JavaScript,1877856
+PhD,33,Java,2626716
+Bachelor's degree,41,"JavaScript, PHP",1985748
+Bachelor's degree,5,Java,1197900
+PhD,17,"Java, C++",2305800
+Less than a Bachelors,30,"JavaScript, PHP",1398972
+Master's degree,28,"Python, Java",2205180
+PhD,8,"JavaScript, C++",2030232
+Bachelor's degree,39,"Java, Ruby",1937952
+Master's degree,38,Python,2385528
+PhD,39,Java,2836644
+Master's degree,8,"Python, C++",1723788
+PhD,2,"Python, C++",1913460
+PhD,27,Ruby,2499756
+Master's degree,37,"JavaScript, C++",2404260
+Less than a Bachelors,37,"PHP, Swift",1569312
+Less than a Bachelors,10,"C++, Swift",877488
+PhD,50,"C++, Swift",3082272
+PhD,50,"Java, C++",3035304
+Less than a Bachelors,45,"JavaScript, Swift",1763928
+Master's degree,19,Java,1937124
+PhD,42,"JavaScript, Ruby",2843916
+PhD,23,Ruby,2466264
+PhD,18,"C++, Swift",2304960
+Bachelor's degree,45,"JavaScript, Python",2113836
+Master's degree,33,Java,2251188
+Master's degree,3,"Python, Ruby",1544304
+Master's degree,17,"Java, PHP",1898484
+Master's degree,32,PHP,2322576
+Less than a Bachelors,8,"JavaScript, C++",820536
+PhD,41,Ruby,2881848
+Master's degree,23,"JavaScript, Java",2000388
+Bachelor's degree,39,"Java, Swift",1921284
+Master's degree,18,"C++, Swift",1877808
+Bachelor's degree,12,"JavaScript, PHP",1344576
+Less than a Bachelors,35,Ruby,1536168
+Bachelor's degree,29,"JavaScript, Ruby",1678920
+PhD,12,"PHP, Ruby",2205516
+Less than a Bachelors,42,JavaScript,1724268
+Less than a Bachelors,44,"JavaScript, C++",1659348
+Master's degree,44,"Python, Java",2605548
+PhD,22,"C++, Swift",2337024
+Less than a Bachelors,44,JavaScript,1731804
+PhD,17,"Java, Ruby",2318112
+Less than a Bachelors,5,"JavaScript, C++",729864
+Bachelor's degree,36,Python,1921140
+Bachelor's degree,14,"Python, Ruby",1310484
+Bachelor's degree,10,"Python, Swift",1221768
+Master's degree,34,"JavaScript, Ruby",2256096
+Master's degree,16,Swift,1893408
+Less than a Bachelors,18,"Java, Ruby",1122972
+Master's degree,5,"Java, PHP",1643904
+Less than a Bachelors,48,"PHP, Swift",1803756
+PhD,0,Java,1848048
+Less than a Bachelors,50,Ruby,1858416
+Master's degree,9,"Python, PHP",1670712
+Less than a Bachelors,2,Python,738528
+Bachelor's degree,23,"Java, C++",1611516
+Bachelor's degree,22,"Java, C++",1545828
+PhD,37,"Ruby, Swift",2754408
+Less than a Bachelors,34,Python,1421580
+Master's degree,9,"JavaScript, Ruby",1756500
+PhD,37,"C++, Ruby",2710416
+Less than a Bachelors,47,"JavaScript, Swift",1761564
+PhD,50,"PHP, Swift",3021000
+Bachelor's degree,8,"JavaScript, Java",1187628
+Bachelor's degree,24,"Python, Java",1623408
+Master's degree,30,"Python, Java",2198184
+Master's degree,33,Swift,2299260
+Less than a Bachelors,25,Ruby,1212396
+Master's degree,6,"Java, Ruby",1675260
+Less than a Bachelors,25,"Java, C++",1222308
+PhD,26,"C++, Ruby",2517348
+Less than a Bachelors,15,"Ruby, Swift",1005144
+PhD,3,"Java, Swift",1928676
+Bachelor's degree,6,"C++, Swift",1105260
+Master's degree,38,"JavaScript, Ruby",2416428
+Master's degree,37,PHP,2400540
+PhD,20,"PHP, Ruby",2310600
+Master's degree,19,Ruby,2013768
+Bachelor's degree,11,Swift,1263984
+Bachelor's degree,38,"Python, Java",1930920
+PhD,22,"Python, PHP",2446980
+PhD,28,C++,2547492
+Less than a Bachelors,23,"JavaScript, Swift",1173240
+Less than a Bachelors,35,"JavaScript, Python",1496220
+Master's degree,1,"Ruby, Swift",1499436
+PhD,44,Java,2960940
+PhD,20,"Java, Ruby",2281164
+Less than a Bachelors,43,"JavaScript, Python",1751376
+Less than a Bachelors,14,Swift,969900
+Bachelor's degree,42,"C++, PHP",2051400
+Less than a Bachelors,36,"C++, Ruby",1583220
+PhD,45,"JavaScript, Ruby",2898708
+Master's degree,0,"Python, Ruby",1470768
+Less than a Bachelors,39,"Java, C++",1648464
+Bachelor's degree,8,"Java, Ruby",1213656
+PhD,5,"PHP, Swift",2001192
+Master's degree,46,Java,2566608
+Bachelor's degree,26,JavaScript,1696968
+Less than a Bachelors,2,"PHP, Swift",714204
+Bachelor's degree,30,"Java, C++",1711044
+Bachelor's degree,10,"JavaScript, C++",1267572
+Master's degree,41,"Python, Ruby",2512284
+PhD,14,"JavaScript, PHP",2208228
+Less than a Bachelors,50,"JavaScript, PHP",1903272
+PhD,32,"C++, PHP",2649264
+PhD,10,"JavaScript, Python",2138196
+Master's degree,40,"Python, Java",2438712
+Less than a Bachelors,46,"JavaScript, Swift",1819668
+Bachelor's degree,15,Ruby,1434300
+Master's degree,42,"Java, PHP",2452356
+Master's degree,6,"JavaScript, Swift",1599228
+PhD,12,"Java, Swift",2194500
+Master's degree,18,"JavaScript, C++",1979184
+Less than a Bachelors,25,"C++, PHP",1268640
+Bachelor's degree,22,"JavaScript, C++",1539564
+Less than a Bachelors,37,Java,1565256
+Bachelor's degree,16,"Ruby, Swift",1370100
+Master's degree,48,C++,2699160
+PhD,26,Swift,2439096
+Bachelor's degree,1,"JavaScript, PHP",1021032
+Bachelor's degree,18,"Java, Ruby",1498992
+Less than a Bachelors,28,Python,1388700
+Less than a Bachelors,12,"Python, Ruby",963696
+PhD,28,Java,2573820
+Bachelor's degree,46,"Java, PHP",2176884
+Bachelor's degree,23,JavaScript,1568160
+Master's degree,40,"Java, C++",2505288
+Master's degree,46,Swift,2631660
+Bachelor's degree,10,"JavaScript, PHP",1250748
+PhD,37,"Python, Ruby",2774772
+Less than a Bachelors,50,"Python, Java",1856592
+Less than a Bachelors,31,JavaScript,1462860
+PhD,5,"JavaScript, Swift",1935084
+Master's degree,9,"JavaScript, Java",1751544
+Master's degree,43,"Java, PHP",2553588
+Master's degree,25,"Java, Ruby",2059032
+Bachelor's degree,18,"JavaScript, Python",1398888
+Less than a Bachelors,16,"Java, PHP",1043448
+Master's degree,11,"Python, Swift",1817388
+Master's degree,16,Ruby,1919616
+PhD,12,"JavaScript, PHP",2122608
+Bachelor's degree,29,C++,1726536
+Less than a Bachelors,26,"Python, Swift",1277652
+Bachelor's degree,2,"PHP, Ruby",1035996
+Less than a Bachelors,9,Java,828312
+Bachelor's degree,41,JavaScript,1962828
+PhD,17,"C++, PHP",2292168
+Bachelor's degree,44,"Java, Swift",2089536
+Bachelor's degree,17,"JavaScript, Python",1411668
+Less than a Bachelors,50,"JavaScript, Ruby",1873308
+Less than a Bachelors,27,"JavaScript, C++",1291740
+Master's degree,18,PHP,1952820
+Bachelor's degree,3,"Python, Ruby",1144716
+Bachelor's degree,2,"JavaScript, Python",1090584
+Bachelor's degree,8,Ruby,1246596
+Master's degree,7,"Java, Ruby",1727136
+PhD,23,"Java, Swift",2369892
+Bachelor's degree,5,"Python, PHP",1177044
+Less than a Bachelors,32,"JavaScript, Java",1442304
+Less than a Bachelors,34,"Python, Java",1444248
+Master's degree,18,"JavaScript, Java",1972884
+Less than a Bachelors,33,"PHP, Ruby",1483788
+Bachelor's degree,27,C++,1710708
+PhD,17,PHP,2301000
+Bachelor's degree,39,"C++, Swift",1906572
+Less than a Bachelors,0,"Java, C++",691020
+PhD,9,"Python, C++",2134884
+Less than a Bachelors,4,"Python, Ruby",699768
+Less than a Bachelors,9,PHP,861780
+Less than a Bachelors,36,"PHP, Swift",1501140
+PhD,22,"Python, Java",2338908
+Master's degree,40,C++,2486100
+Less than a Bachelors,26,"C++, PHP",1287516
+PhD,22,"Python, C++",2380452
+Master's degree,4,Python,1578360
+Bachelor's degree,41,PHP,2056884
+Bachelor's degree,19,"C++, Swift",1529652
+PhD,0,Ruby,1861296
+Master's degree,40,"Python, C++",2472612
+Master's degree,44,"Java, C++",2527980
+PhD,2,"JavaScript, Python",1917744
+PhD,49,"Java, Ruby",3021096
+PhD,8,"C++, Swift",2108820
+Less than a Bachelors,35,Python,1471428
+Less than a Bachelors,31,"Python, Swift",1373136
+Master's degree,43,"PHP, Ruby",2503476
+Master's degree,42,"Python, C++",2521548
+PhD,47,"Ruby, Swift",2942772
+Less than a Bachelors,31,Java,1348140
+PhD,33,"Java, Swift",2697468
+Bachelor's degree,35,PHP,1813752
+Less than a Bachelors,39,"JavaScript, C++",1641864
+Less than a Bachelors,8,"Java, PHP",882816
+Master's degree,48,PHP,2615976
+Master's degree,41,C++,2501328
+Bachelor's degree,33,"JavaScript, C++",1867620
+Bachelor's degree,19,JavaScript,1506168
+Bachelor's degree,13,"C++, Ruby",1369596
+Master's degree,37,"Python, PHP",2428608
+Less than a Bachelors,49,"C++, Swift",1894152
+Bachelor's degree,48,Ruby,2190924
+Master's degree,26,"PHP, Ruby",2125128
+Master's degree,13,"C++, Ruby",1850652
+Bachelor's degree,7,Ruby,1209912
+Less than a Bachelors,20,"Python, PHP",1089012
+PhD,3,"JavaScript, Java",1887036
+Bachelor's degree,43,PHP,2071068
+PhD,16,"Python, Ruby",2217552
+Less than a Bachelors,21,"PHP, Ruby",1141344
+Master's degree,48,"PHP, Swift",2600016
+PhD,23,"Java, C++",2460672
+Less than a Bachelors,18,"JavaScript, C++",1063212
+Master's degree,2,"JavaScript, Swift",1603896
+PhD,1,Python,1880112
+Master's degree,29,"Python, Java",2150796
+Bachelor's degree,0,Python,1068348
+Bachelor's degree,42,Swift,2085996
+Bachelor's degree,22,"Python, C++",1569960
+Less than a Bachelors,3,"JavaScript, C++",680112
+Master's degree,16,C++,1830156
+Less than a Bachelors,26,"C++, Swift",1255788
+PhD,27,C++,2505888
+Bachelor's degree,3,PHP,1127892
+Master's degree,9,"Java, C++",1769304
+Master's degree,35,"C++, Swift",2323872
+Less than a Bachelors,30,"C++, Swift",1354596
+Less than a Bachelors,46,"C++, Swift",1821996
+PhD,2,"Python, Java",1912656
+PhD,39,"Python, PHP",2844636
+PhD,11,Swift,2099520
+Less than a Bachelors,15,"JavaScript, Ruby",1077648
+Less than a Bachelors,13,"JavaScript, Python",935748
+Less than a Bachelors,39,"PHP, Ruby",1638840
+Less than a Bachelors,0,"PHP, Swift",686604
+PhD,22,"PHP, Swift",2389596
+Master's degree,20,"PHP, Ruby",1973508
+PhD,44,"C++, Swift",2881176
+Bachelor's degree,25,"Java, C++",1567596
+PhD,50,Python,3053604
+Master's degree,44,"JavaScript, C++",2603568
+Bachelor's degree,2,"Ruby, Swift",1092672
+Bachelor's degree,31,"Ruby, Swift",1759068
+PhD,13,"C++, PHP",2157024
+Master's degree,47,"Java, C++",2598348
+Master's degree,43,"Python, Swift",2582844
+Less than a Bachelors,5,"C++, Ruby",763116
+Less than a Bachelors,48,PHP,1869900
+PhD,1,JavaScript,1926672
+Bachelor's degree,8,C++,1244952
+Less than a Bachelors,50,"Python, Swift",1909248
+Bachelor's degree,3,Java,1129812
+PhD,1,Ruby,1923552
+Bachelor's degree,17,Java,1425720
+PhD,9,Swift,2131488
+Less than a Bachelors,14,Python,942192
+Bachelor's degree,3,"Ruby, Swift",1104468
+Bachelor's degree,10,"C++, Swift",1280256
+PhD,50,"C++, PHP",3084120
+Less than a Bachelors,1,"C++, Ruby",699528
+Less than a Bachelors,37,"Java, PHP",1600128
+Bachelor's degree,1,"Java, Ruby",995256
+Less than a Bachelors,7,Ruby,819336
+PhD,17,"Python, PHP",2247012
+PhD,1,PHP,1879428
+Less than a Bachelors,36,"JavaScript, C++",1496604
+Less than a Bachelors,8,Python,854664
+PhD,27,"Python, Ruby",2547780
+PhD,38,Swift,2763540
+Less than a Bachelors,12,"JavaScript, Java",949632
+Bachelor's degree,2,Python,1057392
+Master's degree,28,"JavaScript, Ruby",2154384
+Master's degree,43,PHP,2493348
+Less than a Bachelors,17,"PHP, Swift",1118964
+PhD,3,"Python, C++",1960704
+PhD,31,Swift,2627844
+PhD,40,"PHP, Ruby",2845812
+PhD,29,"C++, PHP",2500848
+Less than a Bachelors,47,"JavaScript, PHP",1729440
+PhD,27,"Java, PHP",2458704
+PhD,9,"JavaScript, C++",2053008
+PhD,8,"JavaScript, Python",2065176
+Less than a Bachelors,9,"JavaScript, Java",909108
+Master's degree,4,"Ruby, Swift",1578780
+Less than a Bachelors,20,"Python, C++",1128324
+Bachelor's degree,48,"JavaScript, Swift",2195820
+Bachelor's degree,9,"Java, C++",1282944
+Less than a Bachelors,38,PHP,1629444
+Less than a Bachelors,5,"JavaScript, Ruby",806040
+Master's degree,25,Java,2115924
+Master's degree,9,"JavaScript, C++",1734336
+Less than a Bachelors,8,"Python, PHP",906888
+Less than a Bachelors,2,"Python, PHP",690036
+Bachelor's degree,40,Python,1947588
+Master's degree,8,Java,1710384
+PhD,42,"Python, Java",2894940
+Master's degree,47,"Java, PHP",2682528
+Less than a Bachelors,4,"JavaScript, Ruby",815160
+Bachelor's degree,38,"Python, Swift",1930656
+PhD,15,Java,2200188
+Less than a Bachelors,30,"Python, PHP",1403748
+Master's degree,29,"Java, PHP",2203368
+Bachelor's degree,20,"Java, Ruby",1509624
+Less than a Bachelors,20,"JavaScript, Ruby",1149252
+Bachelor's degree,17,Swift,1437936
+PhD,20,C++,2314440
+Less than a Bachelors,24,"JavaScript, Swift",1245372
+PhD,13,"C++, Ruby",2146116
+PhD,49,"PHP, Ruby",3005352
+PhD,10,"Python, Java",2074932
+Master's degree,17,"Python, C++",1875984
+Bachelor's degree,25,"Python, Ruby",1588248
+Less than a Bachelors,31,"JavaScript, PHP",1345272
+Master's degree,20,JavaScript,1934244
+Less than a Bachelors,21,PHP,1150092
+Master's degree,27,Python,2188116
+Less than a Bachelors,27,"C++, Swift",1361232
+PhD,8,"Java, Ruby",2063496
+Less than a Bachelors,20,"Java, Ruby",1080936
+Bachelor's degree,13,"JavaScript, Java",1272072
+Less than a Bachelors,15,"C++, Swift",987924
+Bachelor's degree,10,"C++, PHP",1246356
+Master's degree,14,PHP,1862388
+PhD,8,JavaScript,2052276
+Bachelor's degree,33,"PHP, Ruby",1798824
+Master's degree,30,Swift,2168328
+Bachelor's degree,18,"Java, C++",1496928
+Less than a Bachelors,7,JavaScript,845520
+PhD,22,"JavaScript, Ruby",2395740
+Less than a Bachelors,30,Swift,1347864
+Bachelor's degree,17,"JavaScript, PHP",1400820
+Master's degree,49,JavaScript,2648232
+Bachelor's degree,7,Python,1173624
+PhD,12,JavaScript,2177916
+Bachelor's degree,10,"Java, Swift",1298148
+PhD,2,"C++, Ruby",1866408
+Bachelor's degree,36,"PHP, Swift",1907136
+Master's degree,6,"JavaScript, PHP",1586316
+Bachelor's degree,39,"Java, PHP",1964580
+Less than a Bachelors,15,"JavaScript, Swift",990864
+PhD,49,"JavaScript, Swift",2980188
+Master's degree,42,"Java, C++",2508768
+Less than a Bachelors,50,"JavaScript, Swift",1847424
+Master's degree,16,"JavaScript, Python",1930932
+PhD,15,"Java, Swift",2191008
+Less than a Bachelors,8,"Python, Ruby",822108
+Less than a Bachelors,25,PHP,1246416
+PhD,42,"Python, C++",2828892
+PhD,22,"C++, PHP",2377164
+Less than a Bachelors,28,JavaScript,1329456
+Less than a Bachelors,16,"JavaScript, Swift",1101180
+PhD,19,"JavaScript, Java",2349300
+Less than a Bachelors,36,Swift,1551552
+Less than a Bachelors,29,"JavaScript, Java",1339812
+Master's degree,40,"JavaScript, PHP",2507304
+Master's degree,45,Java,2573832
+PhD,31,"Java, C++",2548464
+PhD,12,"JavaScript, Ruby",2101464
+Less than a Bachelors,2,"Java, Ruby",764856
+PhD,16,C++,2256036
+PhD,27,Java,2450136
+Master's degree,8,"Python, Java",1726104
+Bachelor's degree,0,"Java, C++",1041432
+PhD,50,Swift,3047160
+Bachelor's degree,42,Python,2023848
+Bachelor's degree,34,Swift,1815276
+PhD,48,"JavaScript, Ruby",3020892
+Master's degree,46,"Python, Java",2620104
+Master's degree,49,C++,2672304
+Bachelor's degree,2,"Python, Swift",1043328
+PhD,20,"C++, Swift",2287800
+Less than a Bachelors,19,"JavaScript, Swift",1104996
+PhD,2,"Java, PHP",1861440
+PhD,7,"Python, C++",2073756
+Master's degree,1,"PHP, Swift",1501128
+PhD,39,"Python, Java",2739360
+Bachelor's degree,14,"JavaScript, Python",1361004
+PhD,49,"JavaScript, C++",3017064
+Master's degree,47,"Python, C++",2663340
+Master's degree,23,Java,2082408
+Master's degree,45,Ruby,2631048
+Bachelor's degree,31,"Java, C++",1796280
+Bachelor's degree,37,"JavaScript, Swift",1961820
+PhD,33,"C++, Swift",2670660
+Bachelor's degree,26,Ruby,1616412
+Bachelor's degree,0,"C++, Swift",999948
+PhD,22,"JavaScript, Python",2332764
+Bachelor's degree,17,"Java, C++",1399896
+Bachelor's degree,25,"C++, PHP",1572480
+Bachelor's degree,11,"Python, PHP",1306404
+PhD,40,Ruby,2875380
+Bachelor's degree,40,"JavaScript, PHP",1959648
+PhD,0,"PHP, Swift",1911684
+PhD,38,"Python, C++",2825124
+Less than a Bachelors,42,"Java, PHP",1684428
+Master's degree,6,"Python, Java",1586388
+Bachelor's degree,28,"Python, Java",1705740
+PhD,21,Ruby,2314296
+Bachelor's degree,17,Python,1428756
+PhD,0,"JavaScript, PHP",1901208
+PhD,11,Ruby,2102748
+Master's degree,22,"JavaScript, Swift",1999416
+PhD,5,C++,2026176
+Bachelor's degree,42,"Java, Swift",2006808
+PhD,13,Ruby,2155692
+PhD,10,Swift,2046420
+PhD,36,"Java, Ruby",2734608
+PhD,5,JavaScript,1943004
+Bachelor's degree,14,"PHP, Swift",1361028
+Bachelor's degree,15,"Python, PHP",1347864
+Less than a Bachelors,41,"Java, C++",1647564
+Less than a Bachelors,9,C++,866700
+Master's degree,6,"C++, Swift",1619736
+Less than a Bachelors,42,"JavaScript, Swift",1658736
+PhD,25,"Python, Java",2418084
+PhD,37,"Java, Swift",2782464
+PhD,18,"JavaScript, Python",2280888
+PhD,49,"Python, PHP",3022428
+Bachelor's degree,45,"JavaScript, Java",2064612
+Less than a Bachelors,24,"JavaScript, Java",1281312
+Bachelor's degree,43,"PHP, Ruby",2042088
+Master's degree,1,"Java, Ruby",1480776
+Bachelor's degree,6,"JavaScript, C++",1121400
+PhD,31,"JavaScript, C++",2663340
+Bachelor's degree,6,"Java, PHP",1114680
+Bachelor's degree,8,"PHP, Swift",1229328
+PhD,23,"Java, Ruby",2397732
+Less than a Bachelors,21,"JavaScript, Java",1210392
+PhD,31,"JavaScript, Ruby",2562720
+Less than a Bachelors,12,Java,890952
+Master's degree,42,Ruby,2464608
+Bachelor's degree,46,"C++, PHP",2109204
+Master's degree,21,"Java, Ruby",2036352
+Bachelor's degree,41,"PHP, Swift",1965684
+PhD,50,"JavaScript, C++",3056628
+Master's degree,24,"Python, PHP",2111256
+Master's degree,30,"Java, Swift",2191584
+Master's degree,37,"JavaScript, Java",2415516
+PhD,3,"Java, C++",1944312
+Master's degree,0,"JavaScript, Java",1535964
+PhD,9,"Java, Ruby",2032752
+Master's degree,22,Python,1993884
+PhD,38,C++,2714232
+Bachelor's degree,50,Ruby,2179392
+Master's degree,43,Python,2504676
+Master's degree,0,JavaScript,1479672
+Master's degree,17,Ruby,1950924
+PhD,36,C++,2696004
+Bachelor's degree,36,"Java, C++",1896648
+PhD,2,"Java, Swift",1933644
+PhD,12,"JavaScript, Swift",2188056
+Bachelor's degree,35,"Ruby, Swift",1895940
+PhD,10,"Java, PHP",2157132
+PhD,7,"Java, PHP",1981116
+PhD,35,"C++, PHP",2673084
+Master's degree,13,Java,1769928
+Bachelor's degree,5,"C++, PHP",1199904
+Master's degree,35,JavaScript,2307696
+Less than a Bachelors,43,PHP,1718628
+PhD,41,"Java, C++",2800152
+Less than a Bachelors,18,JavaScript,1096380
+Bachelor's degree,29,"C++, Ruby",1672536
+Bachelor's degree,16,Swift,1455144
+Bachelor's degree,29,Swift,1667820
+PhD,32,"Ruby, Swift",2585640
+Less than a Bachelors,50,"JavaScript, Python",1861212
+Bachelor's degree,46,"PHP, Swift",2125872
+Bachelor's degree,16,"JavaScript, Java",1438644
+Less than a Bachelors,36,"Python, Swift",1569360
+Master's degree,21,"JavaScript, Ruby",2020176
+PhD,35,JavaScript,2644092
+Less than a Bachelors,23,Ruby,1205412
+Less than a Bachelors,3,"Java, Swift",688488
+Master's degree,29,"PHP, Ruby",2206716
+PhD,2,"JavaScript, Java",1857396
+Less than a Bachelors,7,"Java, C++",876828
+Bachelor's degree,23,"JavaScript, Java",1513464
+Less than a Bachelors,14,"Python, PHP",1027812
+PhD,1,Java,1927764
+Master's degree,37,Java,2446608
+Less than a Bachelors,32,Swift,1417464
+PhD,46,"Java, PHP",2995236
+Bachelor's degree,19,"PHP, Ruby",1477584
+Bachelor's degree,33,"Python, Java",1809288
+Bachelor's degree,6,"Python, Java",1172748
+Bachelor's degree,1,"JavaScript, Ruby",1073796
+Bachelor's degree,18,"C++, PHP",1459908
+Bachelor's degree,39,Java,1941684
+Less than a Bachelors,14,JavaScript,1006932
+Bachelor's degree,0,"Python, Java",1030404
+Less than a Bachelors,24,"JavaScript, PHP",1263672
+Master's degree,26,"JavaScript, Ruby",2180796
+PhD,14,"Python, Swift",2147568
+Less than a Bachelors,10,PHP,932616
+Bachelor's degree,15,Swift,1340424
+Less than a Bachelors,42,"C++, PHP",1615608
+PhD,40,"Python, Ruby",2866272
+Bachelor's degree,38,JavaScript,1954620
+Master's degree,42,"JavaScript, Java",2499972
+PhD,34,"JavaScript, PHP",2661144
+PhD,13,"Python, C++",2113752
+Bachelor's degree,23,Java,1557264
+Master's degree,28,"Java, Swift",2208444
+PhD,3,Python,1936704
+Bachelor's degree,18,"Java, Swift",1398972
+Less than a Bachelors,40,Java,1611276
+Bachelor's degree,40,Swift,1935996
+Master's degree,40,"Ruby, Swift",2453232
+Bachelor's degree,7,"JavaScript, Python",1213296
+PhD,6,PHP,1950612
+Master's degree,33,PHP,2286888
+Master's degree,50,"Java, Ruby",2661216
+Master's degree,22,"Java, Swift",2032944
+PhD,26,"JavaScript, Swift",2464188
+Bachelor's degree,14,"Python, Java",1352196
+Less than a Bachelors,31,"Java, PHP",1356504
+Master's degree,17,"JavaScript, PHP",1854852
+Less than a Bachelors,24,Swift,1291332
+PhD,14,C++,2160432
+Less than a Bachelors,32,PHP,1464804
+Master's degree,2,Java,1583784
+Bachelor's degree,16,"Java, C++",1386444
+Bachelor's degree,10,"JavaScript, Ruby",1224840
+Less than a Bachelors,27,"Python, PHP",1323000
+Bachelor's degree,43,"C++, Ruby",2045760
+Bachelor's degree,26,"PHP, Swift",1613196
+Master's degree,19,JavaScript,1999608
+PhD,6,"Python, PHP",2028492
+PhD,39,"Python, Swift",2846076
+PhD,18,Ruby,2287092
+Master's degree,43,"JavaScript, PHP",2551932
+PhD,29,"JavaScript, Python",2543364
+Bachelor's degree,1,JavaScript,1013232
+Less than a Bachelors,14,C++,1003848
+Bachelor's degree,28,"Python, PHP",1745196
+Less than a Bachelors,38,"C++, PHP",1590768
+Master's degree,10,"PHP, Swift",1788960
+Bachelor's degree,24,"JavaScript, Swift",1573080
+Less than a Bachelors,0,"Java, PHP",637368
+Bachelor's degree,4,"JavaScript, PHP",1074240
+Bachelor's degree,20,Swift,1500408
+PhD,13,"JavaScript, PHP",2174316
+PhD,2,Java,1865472
+Bachelor's degree,43,"PHP, Swift",2021964
+Bachelor's degree,24,"Java, Ruby",1643880
+Master's degree,34,Python,2375412
+Less than a Bachelors,37,PHP,1492068
+Bachelor's degree,33,"JavaScript, Java",1828632
+Less than a Bachelors,13,"PHP, Ruby",990528
+Bachelor's degree,27,"Python, C++",1671672
+Less than a Bachelors,14,"Python, Ruby",1053036
+Bachelor's degree,45,PHP,2096100
+PhD,0,"JavaScript, Ruby",1881480
+Master's degree,12,"JavaScript, PHP",1765944
+Master's degree,36,Java,2357256
+Master's degree,14,"Java, PHP",1788588
+Master's degree,48,"Java, C++",2707008
+PhD,12,"JavaScript, Python",2155056
+Bachelor's degree,38,"JavaScript, C++",1906848
+Less than a Bachelors,11,"Java, C++",978564
+Master's degree,5,"Python, Swift",1570476
+PhD,16,"Java, Ruby",2230164
+Bachelor's degree,31,C++,1790100
+Bachelor's degree,41,"Java, C++",2013864
+Bachelor's degree,12,"JavaScript, Swift",1326348
+Master's degree,37,"C++, Swift",2431248
+PhD,11,"Java, Ruby",2168244
+PhD,23,C++,2388180
+Master's degree,39,"C++, PHP",2441208
+Less than a Bachelors,11,"Java, Swift",975948
+Less than a Bachelors,2,"JavaScript, PHP",734964
+Bachelor's degree,14,PHP,1319340
+Bachelor's degree,38,"JavaScript, Ruby",1905828
+Master's degree,46,"Java, Ruby",2632776
+Bachelor's degree,24,Swift,1637628
+Master's degree,49,"Python, Swift",2640612
+Less than a Bachelors,5,Java,769812
+PhD,11,"Java, Swift",2144376
+Bachelor's degree,42,Java,2000160
+Less than a Bachelors,18,"Python, Swift",1135632
+PhD,44,"PHP, Ruby",2928192
+Bachelor's degree,45,"JavaScript, C++",2046048
+Less than a Bachelors,45,"PHP, Swift",1716084
+Bachelor's degree,35,Ruby,1816656
+Less than a Bachelors,1,"Java, PHP",717828
+PhD,50,"JavaScript, Python",3073440
+Less than a Bachelors,41,C++,1631580
+PhD,20,"C++, Ruby",2362524
+PhD,0,"Java, Ruby",1913772
+Less than a Bachelors,6,"C++, PHP",862284
+Bachelor's degree,27,"Java, Ruby",1701540
+Less than a Bachelors,19,Java,1171560
+Bachelor's degree,40,"Python, PHP",1961640
+PhD,48,"Java, C++",3023472
+Bachelor's degree,47,C++,2189484
+Less than a Bachelors,1,"Python, C++",669372
+Less than a Bachelors,31,"JavaScript, Swift",1423452
+Master's degree,28,"JavaScript, C++",2165844
+Less than a Bachelors,48,"Python, Ruby",1761252
+Less than a Bachelors,10,"Python, Java",896616
+PhD,33,"JavaScript, C++",2616504
+Less than a Bachelors,15,"PHP, Ruby",1077516
+Master's degree,35,"Python, Ruby",2334924
+Less than a Bachelors,29,"Java, PHP",1307568
+Master's degree,28,"JavaScript, PHP",2224032
+Less than a Bachelors,42,"Java, C++",1685364
+PhD,35,"JavaScript, Python",2756340
+Master's degree,27,"Python, Ruby",2182548
+Bachelor's degree,10,"JavaScript, Swift",1263768
+Bachelor's degree,49,"Python, Swift",2197440
+PhD,30,"JavaScript, Ruby",2610048
+PhD,47,Swift,2938308
+PhD,6,C++,2002896
+Master's degree,36,"JavaScript, Java",2400492
+Less than a Bachelors,33,"Python, Swift",1423020
+Master's degree,48,"JavaScript, C++",2632836
+Master's degree,47,Java,2628588
+Bachelor's degree,48,Swift,2231364
+PhD,13,"Java, Swift",2214780
+Bachelor's degree,11,"Java, Ruby",1330164
+Less than a Bachelors,4,"JavaScript, C++",776112
+Bachelor's degree,9,"C++, Swift",1275420
+Master's degree,41,"PHP, Ruby",2494188
+Bachelor's degree,21,Java,1475556
+Bachelor's degree,48,"Java, Swift",2208192
+Master's degree,44,"Python, PHP",2529312
+Less than a Bachelors,10,Java,851844
+Master's degree,15,"Ruby, Swift",1813296
+Bachelor's degree,43,C++,2082804
+PhD,8,"PHP, Ruby",2108112
+Bachelor's degree,12,Ruby,1311768
+Less than a Bachelors,45,"Python, C++",1683636
+Less than a Bachelors,23,"Python, Swift",1230612
+Less than a Bachelors,16,"JavaScript, Python",1055412
+Less than a Bachelors,48,"JavaScript, Python",1837608
+Bachelor's degree,19,"Python, Java",1481712
+Less than a Bachelors,23,Java,1155756
+PhD,15,"Python, Ruby",2167044
+Master's degree,5,"PHP, Ruby",1603836
+Less than a Bachelors,42,"C++, Swift",1682988
+Bachelor's degree,36,C++,1941672
+PhD,7,"JavaScript, C++",1996176
+Bachelor's degree,17,PHP,1480800
+Master's degree,7,"Python, C++",1669512
+Master's degree,18,"JavaScript, Python",1952700
+PhD,29,JavaScript,2592888
+Bachelor's degree,50,"Python, PHP",2254332
+Less than a Bachelors,4,"Python, C++",756444
+Master's degree,26,"JavaScript, C++",2098860
+PhD,47,"Java, Swift",2987292
+Less than a Bachelors,47,"JavaScript, Java",1843620
+PhD,10,"JavaScript, C++",2041272
+Bachelor's degree,19,"JavaScript, Ruby",1437432
+Bachelor's degree,15,JavaScript,1423788
+Master's degree,8,Ruby,1704948
+Master's degree,33,"JavaScript, Python",2286948
+Less than a Bachelors,25,"JavaScript, Ruby",1282632
+PhD,49,"Java, Swift",3029076
+Bachelor's degree,16,"Python, PHP",1427112
+Bachelor's degree,21,JavaScript,1570728
+Master's degree,49,Python,2635032
+Less than a Bachelors,11,Ruby,932748
+Master's degree,39,"Java, Ruby",2403480
+Less than a Bachelors,27,PHP,1288572
+PhD,27,"Python, C++",2491296
+Bachelor's degree,2,Java,1071516
+PhD,35,"JavaScript, PHP",2663556
+PhD,41,"PHP, Swift",2902800
+PhD,43,"Java, C++",2851476
+PhD,49,"Java, C++",3075708
+PhD,49,"Java, PHP",3081036
+Master's degree,50,"Python, PHP",2709396
+PhD,6,"JavaScript, PHP",2053056
+Less than a Bachelors,38,C++,1617588
+Less than a Bachelors,33,Java,1442640
+Less than a Bachelors,3,Java,767964
+PhD,48,"Java, Ruby",3031716
+Less than a Bachelors,4,Python,763560
+PhD,12,"Ruby, Swift",2090016
+PhD,43,"C++, Swift",2865936
+Master's degree,7,"C++, Swift",1673772
+Master's degree,26,"Java, PHP",2150088
+Less than a Bachelors,36,Java,1557696
+Bachelor's degree,23,Ruby,1516836
+Less than a Bachelors,45,"Java, C++",1704024
+Master's degree,30,"PHP, Swift",2254800
+PhD,40,"C++, PHP",2806752
+Bachelor's degree,14,"JavaScript, Java",1349952
+Master's degree,27,"C++, Swift",2177616
+PhD,9,Java,2108160
+Bachelor's degree,2,"C++, Ruby",1021584
+Master's degree,13,"PHP, Ruby",1815684
+Less than a Bachelors,43,"Python, PHP",1745412
+Less than a Bachelors,2,"JavaScript, Python",764520
+Master's degree,24,"Python, Ruby",2106036
+PhD,23,"JavaScript, Ruby",2450004
+Master's degree,10,"C++, PHP",1739844
+Bachelor's degree,35,"JavaScript, Swift",1870452
+PhD,22,"Java, PHP",2407140
+Less than a Bachelors,28,C++,1335780
+Less than a Bachelors,21,"JavaScript, Python",1207140
+Bachelor's degree,12,"C++, Swift",1253820
+Bachelor's degree,49,PHP,2170452
+PhD,35,PHP,2667396
+PhD,32,"JavaScript, Java",2649924
+PhD,39,"Java, C++",2847828
+PhD,6,Swift,1985568
+PhD,3,"PHP, Swift",1944180
+Master's degree,37,"Ruby, Swift",2403132
+Master's degree,9,"Python, Java",1681128
+Bachelor's degree,17,"Python, Java",1475736
+Master's degree,18,"Python, PHP",1885848
+Less than a Bachelors,24,"C++, Ruby",1290744
+PhD,34,"PHP, Swift",2719512
+Master's degree,27,Java,2171316
+Bachelor's degree,42,"Ruby, Swift",1983540
+Less than a Bachelors,29,Python,1309128
+Master's degree,15,JavaScript,1862088
+PhD,14,Swift,2222556
+Less than a Bachelors,13,PHP,951024
+Master's degree,29,Python,2220996
+PhD,36,"JavaScript, C++",2713884
+PhD,50,"JavaScript, Ruby",3040692
+Bachelor's degree,32,"Python, Swift",1755492
+Less than a Bachelors,49,"Python, Swift",1878048
+Bachelor's degree,16,"JavaScript, PHP",1396944
+Less than a Bachelors,3,"PHP, Ruby",691956
+Master's degree,43,"Python, C++",2528700
+Bachelor's degree,6,"JavaScript, Python",1131972
+PhD,1,"Ruby, Swift",1937028
+Less than a Bachelors,4,"Python, Java",727536
+Master's degree,25,"Java, Swift",2126460
+PhD,1,"Python, Swift",1909812
+Master's degree,26,"Java, C++",2099340
+Bachelor's degree,20,"Python, Swift",1454484
+Less than a Bachelors,40,"C++, Swift",1655712
+PhD,42,"Java, Ruby",2921364
+PhD,9,"C++, Swift",2110464
+PhD,7,"Python, Swift",2012796
+PhD,25,Python,2496000
+Bachelor's degree,21,"Python, Ruby",1493004
+Master's degree,33,JavaScript,2262900
+Less than a Bachelors,45,"C++, PHP",1781808
+Bachelor's degree,39,"Python, Swift",2005116
+Bachelor's degree,9,"JavaScript, Python",1287024
+Less than a Bachelors,13,"Java, Ruby",1023720
+PhD,29,"Java, Ruby",2568516
+Bachelor's degree,50,"JavaScript, Python",2186796
+Bachelor's degree,50,"JavaScript, Ruby",2251428
+Bachelor's degree,32,"JavaScript, Python",1787988
+Bachelor's degree,48,"JavaScript, Java",2220732
+Master's degree,12,C++,1809072
+Less than a Bachelors,46,PHP,1822164
+Master's degree,40,"Python, PHP",2436228
+Master's degree,24,"Python, Swift",2069172
+Master's degree,10,PHP,1770528
+Bachelor's degree,4,Java,1060044
+Bachelor's degree,31,"PHP, Swift",1721940
+Bachelor's degree,49,Python,2136876
+Bachelor's degree,27,"JavaScript, Swift",1678284
+Master's degree,10,"JavaScript, C++",1770984
+Master's degree,23,Python,2064384
+Less than a Bachelors,23,"Ruby, Swift",1238352
+PhD,34,"JavaScript, Ruby",2706720
+Less than a Bachelors,33,"Python, Ruby",1459632
+Bachelor's degree,16,"Python, Ruby",1451880
+Master's degree,23,PHP,2077764
+Less than a Bachelors,40,"Java, Swift",1632996
+PhD,3,"PHP, Ruby",1885644
+Bachelor's degree,41,"JavaScript, Swift",2015184
+Less than a Bachelors,42,"PHP, Swift",1619460
+Bachelor's degree,50,"Java, Swift",2271360
+Bachelor's degree,42,"Python, Ruby",2041812
+PhD,24,Python,2407680
+Bachelor's degree,25,PHP,1656312
+Bachelor's degree,32,C++,1764444
+Less than a Bachelors,49,PHP,1847676
+Less than a Bachelors,43,"JavaScript, Java",1657476
+PhD,34,Python,2631396
+Less than a Bachelors,27,"Java, Swift",1325124
+Bachelor's degree,33,"Java, PHP",1780308
+PhD,3,Java,1886760
+PhD,39,PHP,2760252
+Less than a Bachelors,33,Swift,1446012
+Master's degree,6,Java,1654776
+PhD,39,"Python, Ruby",2784360
+Bachelor's degree,13,"Java, PHP",1292868
+PhD,45,Python,2939172
+Less than a Bachelors,41,"Python, PHP",1603044
+Master's degree,0,"PHP, Ruby",1502232
+Bachelor's degree,23,"JavaScript, Swift",1617336
+Bachelor's degree,25,"JavaScript, Ruby",1573104
+Master's degree,40,PHP,2488908
+PhD,30,"Java, Ruby",2589972
+Less than a Bachelors,33,"Java, Ruby",1418412
+Bachelor's degree,20,"JavaScript, PHP",1542048
+Bachelor's degree,11,"JavaScript, Ruby",1237908
+Bachelor's degree,50,"Python, Java",2255052
+Less than a Bachelors,1,"JavaScript, Swift",742836
+Less than a Bachelors,5,"JavaScript, Swift",808032
+Less than a Bachelors,3,"Python, PHP",781536
+Bachelor's degree,50,"Java, PHP",2183148
+Bachelor's degree,39,"JavaScript, C++",1954824
+PhD,2,"JavaScript, PHP",1905756
+Bachelor's degree,23,"Java, Ruby",1571388
+Bachelor's degree,41,"Ruby, Swift",2039352
+PhD,33,"Java, C++",2689860
+PhD,18,"Python, PHP",2290644
+Less than a Bachelors,4,"Ruby, Swift",801000
+Less than a Bachelors,50,"PHP, Ruby",1898652
+Bachelor's degree,21,"Java, Ruby",1529160
+Master's degree,17,"PHP, Ruby",1919136
+Less than a Bachelors,48,"C++, Ruby",1854120
+Bachelor's degree,2,C++,1112556
+Bachelor's degree,10,"PHP, Swift",1221456
+Master's degree,0,"Python, PHP",1523400
+PhD,17,Python,2295168
+Less than a Bachelors,6,"Python, PHP",801252
+Bachelor's degree,46,"Java, Swift",2096808
+Less than a Bachelors,45,"JavaScript, Ruby",1759392
+PhD,35,Python,2751204
+Bachelor's degree,48,JavaScript,2213832
+PhD,27,JavaScript,2502648
+Master's degree,31,"Java, C++",2212164
+Master's degree,11,Java,1743660
+Less than a Bachelors,18,"C++, PHP",1075296
+PhD,47,C++,2986344
+PhD,50,C++,3088104
+PhD,5,"Python, C++",1942860
+Master's degree,11,"Python, Ruby",1710720
+Less than a Bachelors,47,"C++, Swift",1836900
+Master's degree,3,"C++, Ruby",1530000
+Less than a Bachelors,46,"JavaScript, Java",1773480
+PhD,3,"Python, PHP",1991544
+Master's degree,43,"Python, Java",2549736
+Less than a Bachelors,19,"Python, PHP",1110360
+Less than a Bachelors,36,"Java, C++",1539096
+Bachelor's degree,50,C++,2164896
+Less than a Bachelors,49,Ruby,1831848
+Less than a Bachelors,3,"Java, C++",725604
+Less than a Bachelors,40,Swift,1634316
+Less than a Bachelors,6,"JavaScript, Python",824760
+PhD,1,"JavaScript, Ruby",1916172
+Bachelor's degree,25,"C++, Ruby",1621176
+Less than a Bachelors,8,"JavaScript, Ruby",812292
+Master's degree,5,"C++, PHP",1648668
+Master's degree,25,"JavaScript, C++",2050488
+Master's degree,19,"PHP, Ruby",2001456
+Master's degree,21,"Python, Java",2043972
+Less than a Bachelors,29,"PHP, Swift",1374276
+Bachelor's degree,6,Java,1115280
+PhD,46,PHP,2935788
+Less than a Bachelors,4,"Java, PHP",778044
+PhD,5,"C++, Ruby",1931580
+Bachelor's degree,16,Ruby,1375464
+Less than a Bachelors,21,"Python, PHP",1127328
+Master's degree,23,C++,2040888
+PhD,19,"C++, Ruby",2330484
+PhD,31,"PHP, Swift",2663100
+PhD,47,"C++, Swift",2932224
+Less than a Bachelors,39,"Python, Java",1556016
+Bachelor's degree,21,"JavaScript, PHP",1471476
+Bachelor's degree,3,"JavaScript, Swift",1137228
+Bachelor's degree,14,"JavaScript, Ruby",1316736
+Master's degree,47,"Python, Ruby",2642556
+Master's degree,36,C++,2329032
+Master's degree,21,"JavaScript, C++",1975968
+Bachelor's degree,25,"Python, C++",1656012
+PhD,24,"PHP, Swift",2378028
+Bachelor's degree,46,"Python, C++",2110368
+Bachelor's degree,31,Ruby,1721952
+PhD,2,C++,1856844
+PhD,7,"JavaScript, PHP",2040684
+PhD,36,"JavaScript, Python",2699292
+Master's degree,44,"C++, Ruby",2563680
+Bachelor's degree,7,"Java, PHP",1191684
+Master's degree,29,"JavaScript, Python",2157528
+PhD,36,"PHP, Ruby",2691624
+PhD,8,PHP,2045964
+Master's degree,21,"JavaScript, Java",1970388
+Less than a Bachelors,5,"PHP, Swift",764244
+PhD,5,"JavaScript, PHP",2035812
+PhD,0,"PHP, Ruby",1872720
+Less than a Bachelors,23,"JavaScript, Ruby",1161876
+Bachelor's degree,37,"JavaScript, Ruby",1935744
+Master's degree,38,"Python, C++",2399448
+Bachelor's degree,39,"PHP, Ruby",1966656
+Less than a Bachelors,22,"PHP, Ruby",1142412
+Master's degree,35,"JavaScript, Swift",2379900
+Less than a Bachelors,5,"Python, Java",761784
+Less than a Bachelors,33,"Python, C++",1452276
+PhD,36,Java,2672364
+Bachelor's degree,41,"JavaScript, Ruby",1997820
+Master's degree,34,"JavaScript, PHP",2361696
+Less than a Bachelors,24,"JavaScript, C++",1208088
+PhD,6,"JavaScript, Ruby",1992456
+Bachelor's degree,40,"Java, C++",1949724
+Bachelor's degree,26,"JavaScript, Python",1624332
+Bachelor's degree,10,Python,1291188
+PhD,37,"Python, C++",2741280
+Master's degree,36,Ruby,2331732
+Master's degree,47,PHP,2677848
+Bachelor's degree,19,"JavaScript, PHP",1511772
+Master's degree,11,PHP,1785516
+Master's degree,10,Java,1788132
+PhD,48,"Python, Ruby",3001236
+Bachelor's degree,19,"PHP, Swift",1465488
+Less than a Bachelors,12,"JavaScript, Swift",936192
+PhD,34,"JavaScript, C++",2656584
+Master's degree,19,"JavaScript, C++",2013720
+PhD,13,Python,2207352
+Master's degree,46,"Java, Swift",2563200
+Less than a Bachelors,41,"Java, PHP",1619148
+Bachelor's degree,24,C++,1601880
+Master's degree,39,Java,2484156
+PhD,5,"C++, PHP",1993188
+PhD,50,"Java, Swift",3104472
+PhD,9,JavaScript,2054268
+Bachelor's degree,35,"Python, Java",1856916
+Less than a Bachelors,20,"Java, C++",1080144
+PhD,42,"C++, Ruby",2866716
+Less than a Bachelors,11,"Python, Java",870036
+Bachelor's degree,30,Python,1707036
+PhD,24,"JavaScript, PHP",2460096
+Master's degree,46,Ruby,2610912
+Master's degree,17,"JavaScript, Ruby",1920396
+Master's degree,34,"JavaScript, Swift",2320056
+Master's degree,12,"Java, Swift",1763484
+Master's degree,39,"JavaScript, Python",2399064
+Bachelor's degree,33,Python,1761396
+Bachelor's degree,39,"Python, PHP",1926672
+Bachelor's degree,15,"Java, PHP",1326240
+Less than a Bachelors,11,"JavaScript, Swift",891948
+Master's degree,18,"Python, C++",1963512
+Less than a Bachelors,39,"Python, Ruby",1629708
+Master's degree,14,"PHP, Ruby",1804260
+Bachelor's degree,32,"JavaScript, Swift",1764360
+PhD,21,"Java, PHP",2406336
+PhD,45,"C++, Ruby",2927244
+Less than a Bachelors,16,"JavaScript, C++",1099536
+Master's degree,4,"JavaScript, Swift",1567152
+Less than a Bachelors,22,"C++, Ruby",1180656
+Less than a Bachelors,29,"Python, C++",1326120
+Bachelor's degree,5,C++,1116804
+PhD,26,"Java, PHP",2476608
+Bachelor's degree,12,"JavaScript, Ruby",1328988
+PhD,2,Ruby,1949160
+Master's degree,18,"JavaScript, PHP",1957884
+PhD,26,"Java, Ruby",2463396
+Master's degree,32,"Python, C++",2288304
+PhD,15,"JavaScript, PHP",2180316
+Less than a Bachelors,5,"JavaScript, PHP",730932
+Bachelor's degree,17,"JavaScript, Java",1433112
+Master's degree,30,"Java, PHP",2242476
+Less than a Bachelors,41,"C++, PHP",1689456
+Master's degree,3,"JavaScript, Ruby",1603284
+Bachelor's degree,47,"JavaScript, Swift",2166732
+Bachelor's degree,18,"Java, PHP",1503060
+Less than a Bachelors,21,"Python, Java",1177152
+Master's degree,32,C++,2315484
+PhD,15,"PHP, Ruby",2206668
+Bachelor's degree,3,"PHP, Swift",1034352
+Master's degree,20,"JavaScript, Swift",2005836
+Bachelor's degree,32,"JavaScript, C++",1765716
+Bachelor's degree,13,"Java, C++",1369440
+PhD,36,"Java, C++",2691192
+Less than a Bachelors,15,"Java, Swift",1036440
+Master's degree,1,Java,1566984
+Bachelor's degree,22,Java,1507608
+Bachelor's degree,39,JavaScript,1911012
+Less than a Bachelors,43,"JavaScript, Swift",1651716
+Bachelor's degree,2,"C++, PHP",1046376
