@@ -12,4 +12,4 @@ If you have any queries or suggestions you can mail me: bootwalataher2@gmail.com
 
 You are welcome to suggest any changes, just send a pull request.
 
-The try.py file will make a new csv of given records 
+The try.py file will make a new csv of given records.
