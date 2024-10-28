@@ -4,7 +4,7 @@ Welcome to guide to use this application:
 Step 1: Open the Software Engineer Salary Prediction file.
 Step 2: Launch the command prompt (cmd).
 Step 3: Navigate to the folder path in cmd using the cd command.
-Step 4: Run the following command to start the application:  `streamlit run app.py`
+Step 4: Run the following command to start the application:  `streamlit run predict.py`
 Step 5: The web application will launch successfully in your browser.
 ===================================================================================
 
